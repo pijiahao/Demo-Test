@@ -1,0 +1,60 @@
+﻿@using WebApp.Models
+@model LoginViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AdminLogin</title>
+    <link href="/Content/common/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="/Content/common/fonts/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Animate.css -->
+    <link href="/Content/common/animate.css/animate.min.css" rel="stylesheet">
+    <!-- Custom Theme Style -->
+    <link href="/Content/common/custom/css/custom.min.css" rel="stylesheet">
+
+</head>
+<body>
+    <div class="login">
+        <a class="hiddenanchor" id="signup"></a>
+        <a class="hiddenanchor" id="signin"></a>
+        <div class="login_wrapper">
+            <div class="animate form login_form">
+                <section class="login_content">
+                    @using (Html.BeginForm("AdminLogin", "Account", FormMethod.Post, new { role = "form" }))
+                    {
+                        <h1>Login Form</h1>
+                        <div>
+                            @Html.TextBoxFor(m => m.UserName, new { @class = "form-control", placeholder = "账号" })
+                        </div>
+                        <div>
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "密码" })
+                        </div>
+                        <div>
+                            <input type="submit" value="Log in" class="btn btn-default" style="margin-left:140px;" />
+                            <p>@Html.ValidationSummary(true, "", new { @class = "text-danger" })</p>
+                        </div>
+                        <div class="clearfix"></div>
+                        <div class="separator">
+
+                            <div class="clearfix"></div>
+                            <br />
+                            <div>
+                                <h1><i class="fa fa-paw"></i> Gentelella Alela!</h1>
+                                <p>©2016 All Rights Reserved</p>
+                            </div>
+                        </div>
+                    }
+                    <form></form>
+                </section>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>

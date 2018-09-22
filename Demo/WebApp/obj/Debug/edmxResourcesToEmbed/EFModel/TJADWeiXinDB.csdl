@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TJADWeiXinDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="TJADWeiXinDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="SystemUser" EntityType="TJADWeiXinDBModel.SystemUser" />
+    <EntitySet Name="SystemLog" EntityType="TJADWeiXinDBModel.SystemLog" />
+    <AssociationSet Name="FK_SystemLog_SystemUser" Association="TJADWeiXinDBModel.FK_SystemLog_SystemUser">
+      <End Role="SystemUser" EntitySet="SystemUser" />
+      <End Role="SystemLog" EntitySet="SystemLog" />
+    </AssociationSet>
+    <EntitySet Name="User" EntityType="TJADWeiXinDBModel.User" />
+    <EntitySet Name="ProductPayOrder" EntityType="TJADWeiXinDBModel.ProductPayOrder" />
+    <AssociationSet Name="FK_ProductPayOrder_User" Association="TJADWeiXinDBModel.FK_ProductPayOrder_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="ProductPayOrder" EntitySet="ProductPayOrder" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="SystemUser">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DisplayName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="UserFace" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="IsDelete" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="SystemLog" Relationship="TJADWeiXinDBModel.FK_SystemLog_SystemUser" FromRole="SystemUser" ToRole="SystemLog" />
+  </EntityType>
+  <EntityType Name="SystemLog">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ModulePage" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Remark" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CreationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreationUserID" Type="Int32" />
+    <NavigationProperty Name="SystemUser" Relationship="TJADWeiXinDBModel.FK_SystemLog_SystemUser" FromRole="SystemLog" ToRole="SystemUser" />
+  </EntityType>
+  <Association Name="FK_SystemLog_SystemUser">
+    <End Type="TJADWeiXinDBModel.SystemUser" Role="SystemUser" Multiplicity="0..1" />
+    <End Type="TJADWeiXinDBModel.SystemLog" Role="SystemLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SystemUser">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="SystemLog">
+        <PropertyRef Name="CreationUserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DisplayName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="Country" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Province" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Sex" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Phone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="OpenID" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="UserFace" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="CreationDateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="AttentionDateTime" Type="DateTime" Precision="3" />
+    <Property Name="CancelAttentionDateTime" Type="DateTime" Precision="3" />
+    <Property Name="CanAttention" Type="Boolean" Nullable="false" />
+    <Property Name="Remark" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="SourceProductID" Type="Int32" />
+    <Property Name="IsUse" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="ProductPayOrder" Relationship="TJADWeiXinDBModel.FK_ProductPayOrder_User" FromRole="User" ToRole="ProductPayOrder" />
+  </EntityType>
+  <EntityType Name="ProductPayOrder">
+    <Key>
+      <PropertyRef Name="No" />
+    </Key>
+    <Property Name="No" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ProductOrderNo" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CreationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="PayDate" Type="DateTime" Precision="3" />
+    <Property Name="UserId" Type="Int64" Nullable="false" />
+    <Property Name="IsPay" Type="Boolean" Nullable="false" />
+    <Property Name="Remark" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="User" Relationship="TJADWeiXinDBModel.FK_ProductPayOrder_User" FromRole="ProductPayOrder" ToRole="User" />
+    <Property Name="PayMoney" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+  </EntityType>
+  <Association Name="FK_ProductPayOrder_User">
+    <End Type="TJADWeiXinDBModel.User" Role="User" Multiplicity="1" />
+    <End Type="TJADWeiXinDBModel.ProductPayOrder" Role="ProductPayOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ProductPayOrder">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

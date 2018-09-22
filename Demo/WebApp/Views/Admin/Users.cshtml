@@ -1,0 +1,106 @@
+﻿
+@{
+    ViewBag.Title = "用户信息";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<script src="~/Content/appjs/User/users.js"></script>
+<div class="col-lg-12">
+    <div class="panel panel-default">
+        <div class="panel-body panel_body">
+            <table data-toggle="table" id="usertable" class="table table-hover" data-page-size="10"
+                   data-query-params-type=""
+                   data-query-params=customquery
+                   data-side-pagination="server"
+                   data-url="/api/User/QueryUserByPage"
+                   data-pagination="true">
+                <thead>
+                    <tr>
+                        <th data-checkbox="true"></th>
+                        <th data-field="UserFace" data-formatter="operateHeaderImageFormatter">头像</th>
+                        <th data-field="DisplayName">昵称</th>
+                        <th data-field="Sex">性别</th>
+                        <th data-field="province" data-formatter="operateLocationFormatter">所在地</th>
+                        <th data-field="CanAttention" data-formatter="operateYesOrNoFormatter">是否关注</th>
+                        <th data-field="AttentionDateTime" data-formatter="operateDateFormatter">关注时间</th>
+                        <th data-field="CancelAttentionDateTime" data-formatter="operateDateFormatter">取消关注时间</th>
+                        <th data-field="IsUse" data-formatter="operateYesOrNoFormatter">是否使用</th>
+                        <th data-field="ProductName">入口产品</th>
+                        <th data-field="Remark">备注</th>
+                        <th data-field="" data-width="150" data-formatter="operateFormatter" data-events="operateEvents">操作</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+    <!-- /.panel-body -->
+</div>
+
+<div class="modal fade in" id="UserServiceLifeModal" tabindex="-1" role="dialog" aria-hidden="false">
+    <div class="modal-dialog">
+        <div class="modal-wrapper">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">用户授权信息</h4>
+                </div>
+                <form class="form-horizontal" enctype="multipart/form-data">
+                    <div class="modal-body" style="height:300px;">
+                        <table data-toggle="table" id="UserServiceLifeTable" class="table table-hover" data-page-size="10"
+                               data-pagination="true">
+                            <thead>
+                                <tr>
+                                    <th data-field="ProductName">产品名称</th>
+                                    <th data-field="IsPermanent" data-formatter="operateYesOrNoFormatter">是否永久</th>
+                                    <th data-field="UseStratDate" data-formatter="operateDateFormatter">开始时间</th>
+                                    <th data-field="UseEndDate" data-formatter="operateDateFormatter">结束时间</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade in" id="UserServiceLifeFromModal" tabindex="-1" role="dialog" aria-hidden="false">
+    <div class="modal-dialog">
+        <div class="modal-wrapper">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">授权</h4>
+                </div>
+                <form class="form-horizontal" enctype="multipart/form-data">
+                    <input id="UserID" type="hidden" />
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label form-label">所属产品</label>
+                            <div class="col-sm-10">
+                                <select class="form-control" id="ProductID" name="ProductID" required></select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label form-label">是否永久</label>
+                            <div class="col-sm-10">
+                                <input type="checkbox" id="IsPermanent" class="checked_Effect" /><label for="IsPermanent"></label>
+                            </div>
+                        </div>
+                        <div class="form-group use-month">
+                            <label class="col-sm-2 control-label form-label">期限（月）</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" number="true" placeholder="请输入使用期限（选填）" name="UseMonth" id="UseMonth" required>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default userServiceLifeSave">保存</button>
+                        <button type="button" class="btn btn-white" data-dismiss="modal">关闭</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

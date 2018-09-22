@@ -1,0 +1,706 @@
+2018-08-09 00:00:12.986 INFO Authorized? True
+2018-08-09 00:00:12.998 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 00:00:15.328 INFO Authorized? True
+2018-08-09 00:01:26.428 INFO Authorized? True
+2018-08-09 00:01:26.429 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 00:01:26.493 INFO Authorized? True
+2018-08-09 00:01:36.178 INFO Authorized? True
+2018-08-09 00:01:36.178 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 00:01:36.178 INFO Authorized? True
+2018-08-09 00:01:52.511 INFO Authorized? True
+2018-08-09 00:01:52.511 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 00:01:52.513 INFO Authorized? True
+2018-08-09 00:04:39.644 INFO Authorized? True
+2018-08-09 00:04:39.644 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 00:04:39.645 INFO Authorized? True
+2018-08-09 00:09:22.356 INFO Authorized? True
+2018-08-09 00:09:22.356 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 00:09:22.356 INFO Authorized? True
+2018-08-09 00:11:54.770 INFO Authorized? True
+2018-08-09 00:11:54.779 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 00:11:56.958 INFO Authorized? True
+2018-08-09 00:11:59.560 INFO Authorized? True
+2018-08-09 00:11:59.560 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 00:11:59.616 INFO Authorized? True
+2018-08-09 00:12:22.074 INFO Authorized? True
+2018-08-09 00:12:22.074 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 00:12:22.074 INFO Authorized? True
+2018-08-09 09:10:00.408 INFO Authorized? True
+2018-08-09 09:10:00.408 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:10:00.408 INFO Authorized? True
+2018-08-09 09:10:03.218 INFO Authorized? True
+2018-08-09 09:10:03.218 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:10:03.218 INFO Authorized? True
+2018-08-09 09:10:06.159 INFO Authorized? True
+2018-08-09 09:10:06.159 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:10:06.160 INFO Authorized? True
+2018-08-09 09:11:17.909 INFO Authorized? True
+2018-08-09 09:11:17.909 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:11:17.910 INFO Authorized? True
+2018-08-09 09:11:18.127 INFO Authorized? True
+2018-08-09 09:11:18.127 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:11:18.128 INFO Authorized? True
+2018-08-09 09:11:35.825 INFO Authorized? True
+2018-08-09 09:11:35.825 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:11:35.828 INFO Authorized? True
+2018-08-09 09:13:14.488 INFO Authorized? True
+2018-08-09 09:13:14.497 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:13:16.731 INFO Authorized? True
+2018-08-09 09:13:33.985 INFO Authorized? True
+2018-08-09 09:13:33.985 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:13:34.050 INFO Authorized? True
+2018-08-09 09:15:14.968 INFO Authorized? True
+2018-08-09 09:15:14.968 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:15:14.969 INFO Authorized? True
+2018-08-09 09:20:38.951 INFO Authorized? True
+2018-08-09 09:20:38.951 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:20:38.951 INFO Authorized? True
+2018-08-09 09:39:48.946 INFO Authorized? True
+2018-08-09 09:39:48.946 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:39:48.947 INFO Authorized? True
+2018-08-09 09:40:49.503 INFO Authorized? True
+2018-08-09 09:40:49.503 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:40:49.505 INFO Authorized? True
+2018-08-09 09:49:04.082 INFO Authorized? True
+2018-08-09 09:49:04.092 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:49:06.138 INFO Authorized? True
+2018-08-09 09:52:34.313 INFO Authorized? True
+2018-08-09 09:52:34.323 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:52:36.361 INFO Authorized? True
+2018-08-09 09:56:51.049 INFO Authorized? True
+2018-08-09 09:56:51.058 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 09:56:53.007 INFO Authorized? True
+2018-08-09 10:00:28.999 INFO Authorized? True
+2018-08-09 10:00:28.999 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:00:29.000 INFO Authorized? True
+2018-08-09 10:01:25.653 INFO Authorized? True
+2018-08-09 10:01:25.662 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:01:27.606 INFO Authorized? True
+2018-08-09 10:01:39.905 INFO Authorized? True
+2018-08-09 10:01:39.905 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:01:39.953 INFO Authorized? True
+2018-08-09 10:02:05.953 INFO Authorized? True
+2018-08-09 10:02:05.953 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:02:05.954 INFO Authorized? True
+2018-08-09 10:02:14.332 INFO Authorized? True
+2018-08-09 10:02:14.332 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:02:14.333 INFO Authorized? True
+2018-08-09 10:02:18.527 INFO Authorized? True
+2018-08-09 10:02:18.527 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:02:18.528 INFO Authorized? True
+2018-08-09 10:21:24.674 INFO Authorized? True
+2018-08-09 10:21:24.674 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:21:24.676 INFO Authorized? True
+2018-08-09 10:22:41.830 INFO Authorized? True
+2018-08-09 10:22:41.831 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:22:41.831 INFO Authorized? True
+2018-08-09 10:23:10.675 INFO Authorized? True
+2018-08-09 10:23:10.675 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:23:10.675 INFO Authorized? True
+2018-08-09 10:38:57.712 INFO Authorized? True
+2018-08-09 10:38:57.713 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:38:57.714 INFO Authorized? True
+2018-08-09 10:40:00.834 INFO Authorized? True
+2018-08-09 10:40:00.834 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:40:00.835 INFO Authorized? True
+2018-08-09 10:40:39.420 INFO Authorized? True
+2018-08-09 10:40:39.420 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:40:39.422 INFO Authorized? True
+2018-08-09 10:42:32.225 INFO Authorized? True
+2018-08-09 10:42:32.225 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:42:32.225 INFO Authorized? True
+2018-08-09 10:46:15.942 INFO Authorized? True
+2018-08-09 10:46:15.942 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:46:15.943 INFO Authorized? True
+2018-08-09 10:47:18.617 INFO Authorized? True
+2018-08-09 10:47:18.617 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:47:18.618 INFO Authorized? True
+2018-08-09 10:50:49.607 INFO Authorized? True
+2018-08-09 10:50:49.607 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:50:49.608 INFO Authorized? True
+2018-08-09 10:51:35.137 INFO Authorized? True
+2018-08-09 10:51:35.137 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:51:35.139 INFO Authorized? True
+2018-08-09 10:52:14.954 INFO Authorized? True
+2018-08-09 10:52:14.954 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:52:14.955 INFO Authorized? True
+2018-08-09 10:52:30.889 INFO Authorized? True
+2018-08-09 10:52:30.890 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:52:30.892 INFO Authorized? True
+2018-08-09 10:52:39.994 INFO Authorized? True
+2018-08-09 10:52:39.994 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:52:39.994 INFO Authorized? True
+2018-08-09 10:52:47.957 INFO Authorized? True
+2018-08-09 10:52:47.957 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:52:47.958 INFO Authorized? True
+2018-08-09 10:59:01.002 INFO Authorized? True
+2018-08-09 10:59:01.002 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 10:59:01.003 INFO Authorized? True
+2018-08-09 11:01:47.212 INFO Authorized? True
+2018-08-09 11:01:47.212 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:01:47.212 INFO Authorized? True
+2018-08-09 11:04:11.378 INFO Authorized? True
+2018-08-09 11:04:11.379 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:04:11.380 INFO Authorized? True
+2018-08-09 11:04:13.545 INFO Authorized? True
+2018-08-09 11:04:13.545 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:04:13.546 INFO Authorized? True
+2018-08-09 11:04:15.319 INFO Authorized? True
+2018-08-09 11:04:15.319 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:04:15.320 INFO Authorized? True
+2018-08-09 11:04:49.667 INFO Authorized? True
+2018-08-09 11:04:49.667 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:04:49.668 INFO Authorized? True
+2018-08-09 11:05:47.812 INFO Authorized? True
+2018-08-09 11:05:47.824 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:05:50.222 INFO Authorized? True
+2018-08-09 11:09:27.538 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-【123】用户已存在，请勿重复添加;
+2018-08-09 11:09:27.549 ERROR 【123】用户已存在，请勿重复添加
+2018-08-09 11:09:29.728 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-【123】用户已存在，请勿重复添加;
+2018-08-09 11:09:29.728 ERROR 【123】用户已存在，请勿重复添加
+2018-08-09 11:12:37.517 INFO Authorized? True
+2018-08-09 11:12:37.517 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:12:37.519 INFO Authorized? True
+2018-08-09 11:19:02.405 INFO Authorized? True
+2018-08-09 11:19:02.405 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:19:02.406 INFO Authorized? True
+2018-08-09 11:19:11.289 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-【test】用户已存在，请勿重复添加;
+2018-08-09 11:19:11.289 ERROR 【test】用户已存在，请勿重复添加
+2018-08-09 11:19:22.755 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-【test】用户已存在，请勿重复添加;
+2018-08-09 11:19:22.755 ERROR 【test】用户已存在，请勿重复添加
+2018-08-09 11:20:48.580 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-【test】用户已存在，请勿重复添加;
+2018-08-09 11:20:48.580 ERROR 【test】用户已存在，请勿重复添加
+2018-08-09 11:21:53.994 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-【test】用户已存在，请勿重复添加;
+2018-08-09 11:21:53.994 ERROR 【test】用户已存在，请勿重复添加
+2018-08-09 11:21:56.571 INFO Authorized? True
+2018-08-09 11:21:56.571 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:21:56.572 INFO Authorized? True
+2018-08-09 11:22:22.205 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。;
+2018-08-09 11:22:22.205 ERROR 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+2018-08-09 11:24:09.664 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。;
+2018-08-09 11:24:09.664 ERROR 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+2018-08-09 11:26:29.797 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。;
+2018-08-09 11:26:29.797 ERROR 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+2018-08-09 11:30:51.645 INFO Authorized? True
+2018-08-09 11:30:51.657 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:30:53.765 INFO Authorized? True
+2018-08-09 11:42:39.328 INFO Authorized? True
+2018-08-09 11:42:39.338 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:42:41.415 INFO Authorized? True
+2018-08-09 11:42:56.496 INFO Authorized? True
+2018-08-09 11:42:56.496 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:42:56.545 INFO Authorized? True
+2018-08-09 11:42:58.603 INFO Authorized? True
+2018-08-09 11:42:58.603 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:42:58.604 INFO Authorized? True
+2018-08-09 11:43:27.991 INFO Authorized? True
+2018-08-09 11:43:28.002 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:43:30.197 INFO Authorized? True
+2018-08-09 11:46:41.343 INFO Authorized? True
+2018-08-09 11:46:41.343 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:46:41.392 INFO Authorized? True
+2018-08-09 11:47:16.105 INFO Authorized? True
+2018-08-09 11:47:16.105 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:47:16.106 INFO Authorized? True
+2018-08-09 11:47:36.322 INFO Authorized? True
+2018-08-09 11:47:36.322 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:47:36.323 INFO Authorized? True
+2018-08-09 11:47:44.816 INFO Authorized? True
+2018-08-09 11:47:44.817 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:47:44.817 INFO Authorized? True
+2018-08-09 11:47:52.641 INFO Authorized? True
+2018-08-09 11:47:52.641 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:47:52.641 INFO Authorized? True
+2018-08-09 11:48:00.594 INFO Authorized? True
+2018-08-09 11:48:00.594 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:48:00.594 INFO Authorized? True
+2018-08-09 11:48:06.181 INFO Authorized? True
+2018-08-09 11:48:06.181 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:48:06.181 INFO Authorized? True
+2018-08-09 11:48:10.847 INFO Authorized? True
+2018-08-09 11:48:10.847 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:48:10.847 INFO Authorized? True
+2018-08-09 11:50:32.453 INFO Authorized? True
+2018-08-09 11:50:32.453 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:50:32.454 INFO Authorized? True
+2018-08-09 11:50:39.846 INFO Authorized? True
+2018-08-09 11:50:39.846 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:50:39.847 INFO Authorized? True
+2018-08-09 11:51:53.526 INFO Authorized? True
+2018-08-09 11:51:53.526 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:51:53.527 INFO Authorized? True
+2018-08-09 11:53:23.845 INFO Authorized? True
+2018-08-09 11:53:23.845 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:53:23.846 INFO Authorized? True
+2018-08-09 11:54:59.660 INFO Authorized? True
+2018-08-09 11:54:59.661 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:54:59.661 INFO Authorized? True
+2018-08-09 11:55:43.915 INFO Authorized? True
+2018-08-09 11:55:43.915 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:55:43.916 INFO Authorized? True
+2018-08-09 11:56:31.292 INFO Authorized? True
+2018-08-09 11:56:31.292 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:56:31.293 INFO Authorized? True
+2018-08-09 11:57:09.941 INFO Authorized? True
+2018-08-09 11:57:09.941 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:57:09.942 INFO Authorized? True
+2018-08-09 11:57:36.110 INFO Authorized? True
+2018-08-09 11:57:36.110 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:57:36.111 INFO Authorized? True
+2018-08-09 11:57:47.904 INFO Authorized? True
+2018-08-09 11:57:47.904 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:57:47.905 INFO Authorized? True
+2018-08-09 11:58:51.934 INFO Authorized? True
+2018-08-09 11:58:51.934 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:58:51.935 INFO Authorized? True
+2018-08-09 11:59:44.620 INFO Authorized? True
+2018-08-09 11:59:44.620 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:59:44.621 INFO Authorized? True
+2018-08-09 11:59:57.031 INFO Authorized? True
+2018-08-09 11:59:57.031 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 11:59:57.031 INFO Authorized? True
+2018-08-09 12:04:40.856 INFO Authorized? True
+2018-08-09 12:04:40.865 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:04:42.962 INFO Authorized? True
+2018-08-09 12:05:00.010 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5BE0BB706DA7C1FBBABA9F503542ADF32EBB7FE64F23436B5F43E07C79FF55D3'. Path 'SystemLog[0]'.;
+2018-08-09 12:05:00.010 ERROR Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5BE0BB706DA7C1FBBABA9F503542ADF32EBB7FE64F23436B5F43E07C79FF55D3'. Path 'SystemLog[0]'.
+2018-08-09 12:05:08.815 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5BE0BB706DA7C1FBBABA9F503542ADF32EBB7FE64F23436B5F43E07C79FF55D3'. Path 'SystemLog[0]'.;
+2018-08-09 12:05:08.815 ERROR Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5BE0BB706DA7C1FBBABA9F503542ADF32EBB7FE64F23436B5F43E07C79FF55D3'. Path 'SystemLog[0]'.
+2018-08-09 12:05:33.919 INFO Authorized? True
+2018-08-09 12:05:33.919 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:05:33.944 INFO Authorized? True
+2018-08-09 12:07:11.576 INFO Authorized? True
+2018-08-09 12:07:11.576 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:07:11.577 INFO Authorized? True
+2018-08-09 12:07:24.713 INFO Authorized? True
+2018-08-09 12:07:24.713 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:07:24.714 INFO Authorized? True
+2018-08-09 12:07:53.234 INFO Authorized? True
+2018-08-09 12:07:53.234 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:07:53.236 INFO Authorized? True
+2018-08-09 12:07:57.654 INFO Authorized? True
+2018-08-09 12:07:57.654 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:07:57.655 INFO Authorized? True
+2018-08-09 12:08:18.619 INFO Authorized? True
+2018-08-09 12:08:18.619 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:08:18.620 INFO Authorized? True
+2018-08-09 12:08:48.081 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5BE0BB706DA7C1FBBABA9F503542ADF32EBB7FE64F23436B5F43E07C79FF55D3'. Path 'SystemLog[0]'.;
+2018-08-09 12:08:48.081 ERROR Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5BE0BB706DA7C1FBBABA9F503542ADF32EBB7FE64F23436B5F43E07C79FF55D3'. Path 'SystemLog[0]'.
+2018-08-09 12:09:43.825 INFO Authorized? True
+2018-08-09 12:09:43.834 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:09:45.908 INFO Authorized? True
+2018-08-09 12:11:24.440 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5BE0BB706DA7C1FBBABA9F503542ADF32EBB7FE64F23436B5F43E07C79FF55D3'. Path 'SystemLog[0]'.;
+2018-08-09 12:11:24.440 ERROR Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5BE0BB706DA7C1FBBABA9F503542ADF32EBB7FE64F23436B5F43E07C79FF55D3'. Path 'SystemLog[0]'.
+2018-08-09 12:12:16.262 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5BE0BB706DA7C1FBBABA9F503542ADF32EBB7FE64F23436B5F43E07C79FF55D3'. Path 'SystemLog[0]'.;
+2018-08-09 12:12:16.262 ERROR Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5BE0BB706DA7C1FBBABA9F503542ADF32EBB7FE64F23436B5F43E07C79FF55D3'. Path 'SystemLog[0]'.
+2018-08-09 12:17:45.822 INFO Authorized? True
+2018-08-09 12:17:45.830 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:17:47.830 INFO Authorized? True
+2018-08-09 12:18:04.286 INFO Authorized? True
+2018-08-09 12:18:04.286 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:18:04.287 INFO Authorized? True
+2018-08-09 12:18:29.375 INFO Authorized? True
+2018-08-09 12:18:29.375 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:18:29.376 INFO Authorized? True
+2018-08-09 12:18:30.791 INFO Authorized? True
+2018-08-09 12:18:30.791 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:18:30.792 INFO Authorized? True
+2018-08-09 12:23:08.815 INFO Authorized? True
+2018-08-09 12:23:08.815 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:23:08.816 INFO Authorized? True
+2018-08-09 12:24:06.181 INFO Authorized? True
+2018-08-09 12:24:06.181 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:24:06.181 INFO Authorized? True
+2018-08-09 12:24:49.800 INFO Authorized? True
+2018-08-09 12:24:49.800 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:24:49.801 INFO Authorized? True
+2018-08-09 12:25:29.930 INFO Authorized? True
+2018-08-09 12:25:29.930 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:25:29.930 INFO Authorized? True
+2018-08-09 12:26:18.495 INFO Authorized? True
+2018-08-09 12:26:18.495 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:26:18.496 INFO Authorized? True
+2018-08-09 12:28:18.715 INFO Authorized? True
+2018-08-09 12:28:18.715 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:28:18.716 INFO Authorized? True
+2018-08-09 12:28:43.686 INFO Authorized? True
+2018-08-09 12:28:43.686 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:28:43.687 INFO Authorized? True
+2018-08-09 12:30:52.120 INFO Authorized? True
+2018-08-09 12:30:52.120 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:30:52.121 INFO Authorized? True
+2018-08-09 12:31:10.729 INFO Authorized? True
+2018-08-09 12:31:10.729 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:31:10.729 INFO Authorized? True
+2018-08-09 12:32:23.144 INFO Authorized? True
+2018-08-09 12:32:23.144 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:32:23.145 INFO Authorized? True
+2018-08-09 12:33:37.688 INFO Authorized? True
+2018-08-09 12:33:37.688 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:33:37.688 INFO Authorized? True
+2018-08-09 12:45:23.056 INFO Authorized? True
+2018-08-09 12:45:23.056 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:45:23.057 INFO Authorized? True
+2018-08-09 12:45:24.137 INFO Authorized? True
+2018-08-09 12:45:24.137 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 12:45:24.138 INFO Authorized? True
+2018-08-09 13:13:11.703 INFO Authorized? False
+2018-08-09 13:13:11.703 INFO Authorized? False
+2018-08-09 13:13:11.712 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:13:11.712 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:13:13.979 INFO Authorized? False
+2018-08-09 13:13:43.326 INFO Authorized? False
+2018-08-09 13:13:43.326 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:13:43.377 INFO Authorized? False
+2018-08-09 13:13:46.396 INFO Authorized? False
+2018-08-09 13:13:46.396 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:13:46.397 INFO Authorized? False
+2018-08-09 13:13:53.527 INFO Authorized? True
+2018-08-09 13:13:53.527 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:13:53.527 INFO Authorized? True
+2018-08-09 13:13:57.412 INFO Authorized? True
+2018-08-09 13:13:57.412 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:13:57.413 INFO Authorized? True
+2018-08-09 13:15:24.643 INFO Authorized? True
+2018-08-09 13:15:24.643 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:15:24.644 INFO Authorized? True
+2018-08-09 13:16:23.491 INFO Authorized? True
+2018-08-09 13:16:23.492 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:16:23.492 INFO Authorized? True
+2018-08-09 13:17:01.877 INFO Authorized? True
+2018-08-09 13:17:01.877 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:17:01.877 INFO Authorized? True
+2018-08-09 13:17:42.449 INFO Authorized? True
+2018-08-09 13:17:42.449 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:17:42.450 INFO Authorized? True
+2018-08-09 13:21:38.542 INFO Authorized? True
+2018-08-09 13:21:38.542 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:21:38.543 INFO Authorized? True
+2018-08-09 13:49:41.872 INFO Authorized? False
+2018-08-09 13:49:41.881 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:49:44.137 INFO Authorized? False
+2018-08-09 13:51:31.627 INFO Authorized? True
+2018-08-09 13:51:31.627 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:51:31.680 INFO Authorized? True
+2018-08-09 13:51:35.651 INFO Authorized? True
+2018-08-09 13:51:35.651 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:51:35.653 INFO Authorized? True
+2018-08-09 13:51:37.715 INFO Authorized? True
+2018-08-09 13:51:37.715 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:51:37.716 INFO Authorized? True
+2018-08-09 13:55:15.641 INFO Authorized? True
+2018-08-09 13:55:15.642 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:55:15.643 INFO Authorized? True
+2018-08-09 13:55:54.121 INFO Authorized? True
+2018-08-09 13:55:54.121 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 13:55:54.122 INFO Authorized? True
+2018-08-09 13:56:02.315 ERROR Error occurred in WebApi.Controller-Product;ExceptionMessage-更新条目时出错。有关详细信息，请参阅内部异常。;
+2018-08-09 13:56:02.315 ERROR 列名 'ProductImage' 无效。
+2018-08-09 13:56:40.714 ERROR Error occurred in WebApi.Controller-Product;ExceptionMessage-更新条目时出错。有关详细信息，请参阅内部异常。;
+2018-08-09 13:56:40.714 ERROR 列名 'ProductImage' 无效。
+2018-08-09 13:58:21.260 ERROR Error occurred in WebApi.Controller-Product;ExceptionMessage-更新条目时出错。有关详细信息，请参阅内部异常。;
+2018-08-09 13:58:21.273 ERROR 从 datetime2 数据类型到 datetime 数据类型的转换产生一个超出范围的值。
+语句已终止。
+2018-08-09 14:00:21.234 INFO Authorized? True
+2018-08-09 14:00:21.243 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 14:00:21.324 INFO Authorized? True
+2018-08-09 14:01:42.658 INFO Authorized? True
+2018-08-09 14:01:42.668 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 14:01:44.923 INFO Authorized? True
+2018-08-09 14:02:17.171 INFO Authorized? True
+2018-08-09 14:02:17.171 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 14:02:17.202 INFO Authorized? True
+2018-08-09 14:02:29.925 INFO Authorized? True
+2018-08-09 14:02:29.925 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 14:02:29.925 INFO Authorized? True
+2018-08-09 14:05:55.020 INFO Authorized? True
+2018-08-09 14:05:55.029 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 14:05:57.072 INFO Authorized? True
+2018-08-09 14:06:34.711 ERROR Error occurred in WebApi.Controller-Product;ExceptionMessage-【产品1】产品已存在，请勿重复添加;
+2018-08-09 14:06:34.711 ERROR 【产品1】产品已存在，请勿重复添加
+2018-08-09 14:07:51.012 INFO Authorized? True
+2018-08-09 14:07:51.012 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 14:07:51.017 INFO Authorized? True
+2018-08-09 14:34:01.028 INFO Authorized? True
+2018-08-09 14:34:01.028 INFO Authorized? True
+2018-08-09 14:34:01.028 INFO Authorized? True
+2018-08-09 14:34:01.037 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 14:34:01.037 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 14:34:01.037 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 14:34:03.252 INFO Authorized? True
+2018-08-09 14:34:28.726 INFO Authorized? True
+2018-08-09 14:34:28.728 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 14:34:28.793 INFO Authorized? True
+2018-08-09 14:34:42.770 INFO Authorized? True
+2018-08-09 14:34:42.770 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 14:34:42.771 INFO Authorized? True
+2018-08-09 14:37:29.256 INFO Authorized? True
+2018-08-09 14:37:29.256 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 14:37:29.258 INFO Authorized? True
+2018-08-09 16:17:47.955 INFO Authorized? False
+2018-08-09 16:17:47.967 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:17:50.327 INFO Authorized? False
+2018-08-09 16:18:11.590 INFO Authorized? True
+2018-08-09 16:18:11.591 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:18:11.641 INFO Authorized? True
+2018-08-09 16:18:16.341 INFO Authorized? True
+2018-08-09 16:18:16.341 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:18:16.342 INFO Authorized? True
+2018-08-09 16:26:23.480 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。;
+2018-08-09 16:26:23.481 ERROR 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+2018-08-09 16:30:07.682 INFO Authorized? True
+2018-08-09 16:30:07.691 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:30:09.789 INFO Authorized? True
+2018-08-09 16:30:42.835 INFO Authorized? True
+2018-08-09 16:30:42.836 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:30:42.870 INFO Authorized? True
+2018-08-09 16:31:40.545 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。;
+2018-08-09 16:31:40.545 ERROR 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+2018-08-09 16:31:57.457 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。;
+2018-08-09 16:31:57.457 ERROR 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+2018-08-09 16:33:34.813 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。;
+2018-08-09 16:33:34.813 ERROR 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+2018-08-09 16:37:27.272 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-无法更新 EntitySet“ProductOrder”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。;
+2018-08-09 16:37:27.282 ERROR 无法更新 EntitySet“ProductOrder”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。
+2018-08-09 16:41:37.296 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-无法更新 EntitySet“ProductOrder”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。;
+2018-08-09 16:41:37.296 ERROR 无法更新 EntitySet“ProductOrder”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。
+2018-08-09 16:44:11.999 INFO Authorized? True
+2018-08-09 16:44:12.009 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:44:14.000 INFO Authorized? True
+2018-08-09 16:44:32.363 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-产品订单名称不能为空;
+2018-08-09 16:44:32.363 ERROR 产品订单名称不能为空
+2018-08-09 16:44:34.940 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-产品订单名称不能为空;
+2018-08-09 16:44:34.940 ERROR 产品订单名称不能为空
+2018-08-09 16:45:38.315 INFO Authorized? True
+2018-08-09 16:45:38.315 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:45:38.355 INFO Authorized? True
+2018-08-09 16:48:31.019 INFO Authorized? True
+2018-08-09 16:48:31.031 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:48:33.075 INFO Authorized? True
+2018-08-09 16:48:49.985 INFO Authorized? True
+2018-08-09 16:48:49.985 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:48:50.004 INFO Authorized? True
+2018-08-09 16:49:27.607 INFO Authorized? True
+2018-08-09 16:49:27.607 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:49:27.607 INFO Authorized? True
+2018-08-09 16:49:35.741 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-【一个月】产品订单已存在，请勿重复添加;
+2018-08-09 16:49:35.742 ERROR 【一个月】产品订单已存在，请勿重复添加
+2018-08-09 16:49:53.450 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-【一个月】产品订单已存在，请勿重复添加;
+2018-08-09 16:49:53.450 ERROR 【一个月】产品订单已存在，请勿重复添加
+2018-08-09 16:50:31.020 INFO Authorized? True
+2018-08-09 16:50:31.020 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:50:31.020 INFO Authorized? True
+2018-08-09 16:50:33.300 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-【一个月】产品订单已存在，请勿重复添加;
+2018-08-09 16:50:33.300 ERROR 【一个月】产品订单已存在，请勿重复添加
+2018-08-09 16:53:16.074 INFO Authorized? True
+2018-08-09 16:53:16.074 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:53:16.075 INFO Authorized? True
+2018-08-09 16:53:34.266 INFO Authorized? True
+2018-08-09 16:53:34.266 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:53:34.266 INFO Authorized? True
+2018-08-09 16:54:35.233 INFO Authorized? True
+2018-08-09 16:54:35.233 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:54:35.234 INFO Authorized? True
+2018-08-09 16:56:43.613 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-更新条目时出错。有关详细信息，请参阅内部异常。;
+2018-08-09 16:56:43.625 ERROR INSERT 语句与 FOREIGN KEY 约束"FK_SystemLog_SystemUser"冲突。该冲突发生于数据库"TJADWeiXinDB"，表"dbo.SystemUser", column 'ID'。
+语句已终止。
+2018-08-09 16:56:44.711 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-更新条目时出错。有关详细信息，请参阅内部异常。;
+2018-08-09 16:56:44.711 ERROR INSERT 语句与 FOREIGN KEY 约束"FK_SystemLog_SystemUser"冲突。该冲突发生于数据库"TJADWeiXinDB"，表"dbo.SystemUser", column 'ID'。
+语句已终止。
+2018-08-09 16:56:46.889 INFO Authorized? True
+2018-08-09 16:56:46.889 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:56:46.925 INFO Authorized? True
+2018-08-09 16:56:59.157 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-更新条目时出错。有关详细信息，请参阅内部异常。;
+2018-08-09 16:56:59.157 ERROR INSERT 语句与 FOREIGN KEY 约束"FK_SystemLog_SystemUser"冲突。该冲突发生于数据库"TJADWeiXinDB"，表"dbo.SystemUser", column 'ID'。
+语句已终止。
+2018-08-09 16:57:02.794 INFO Authorized? True
+2018-08-09 16:57:02.794 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:57:02.802 INFO Authorized? True
+2018-08-09 16:57:33.547 INFO Authorized? True
+2018-08-09 16:57:33.556 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:57:35.623 INFO Authorized? True
+2018-08-09 16:59:14.365 INFO Authorized? True
+2018-08-09 16:59:14.365 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 16:59:14.374 INFO Authorized? True
+2018-08-09 17:00:50.451 INFO Authorized? True
+2018-08-09 17:00:50.459 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:00:52.494 INFO Authorized? True
+2018-08-09 17:01:32.158 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-【一个月】产品订单已存在，请勿重复添加;
+2018-08-09 17:01:32.159 ERROR 【一个月】产品订单已存在，请勿重复添加
+2018-08-09 17:01:35.505 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-【一个月】产品订单已存在，请勿重复添加;
+2018-08-09 17:01:35.505 ERROR 【一个月】产品订单已存在，请勿重复添加
+2018-08-09 17:02:24.254 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-【一个月】产品订单已存在，请勿重复添加;
+2018-08-09 17:02:24.265 ERROR 【一个月】产品订单已存在，请勿重复添加
+2018-08-09 17:02:58.936 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-【一个月】产品订单已存在，请勿重复添加;
+2018-08-09 17:02:58.936 ERROR 【一个月】产品订单已存在，请勿重复添加
+2018-08-09 17:03:07.110 INFO Authorized? True
+2018-08-09 17:03:07.110 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:03:07.296 INFO Authorized? True
+2018-08-09 17:05:09.515 INFO Authorized? True
+2018-08-09 17:05:09.527 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:05:11.864 INFO Authorized? True
+2018-08-09 17:05:36.793 INFO Authorized? True
+2018-08-09 17:05:36.793 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:05:36.829 INFO Authorized? True
+2018-08-09 17:05:47.916 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-【一个月】产品订单已存在，请勿重复添加;
+2018-08-09 17:05:47.917 ERROR 【一个月】产品订单已存在，请勿重复添加
+2018-08-09 17:05:55.939 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-【一年】产品订单已存在，请勿重复添加;
+2018-08-09 17:05:55.939 ERROR 【一年】产品订单已存在，请勿重复添加
+2018-08-09 17:06:31.043 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-【一个月】产品订单名称已存在，修改失败;
+2018-08-09 17:06:31.044 ERROR 【一个月】产品订单名称已存在，修改失败
+2018-08-09 17:06:40.442 INFO Authorized? True
+2018-08-09 17:06:40.442 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:06:40.443 INFO Authorized? True
+2018-08-09 17:07:04.081 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-【一个月】产品订单名称已存在，修改失败;
+2018-08-09 17:07:04.081 ERROR 【一个月】产品订单名称已存在，修改失败
+2018-08-09 17:07:06.650 INFO Authorized? True
+2018-08-09 17:07:06.650 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:07:06.651 INFO Authorized? True
+2018-08-09 17:07:27.917 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-【一个月】产品订单名称已存在，修改失败;
+2018-08-09 17:07:27.917 ERROR 【一个月】产品订单名称已存在，修改失败
+2018-08-09 17:07:55.721 INFO Authorized? True
+2018-08-09 17:07:55.732 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:07:57.958 INFO Authorized? True
+2018-08-09 17:08:22.547 ERROR Error occurred in WebApi.Controller-ProductOrder;ExceptionMessage-【一个月】产品订单名称已存在，修改失败;
+2018-08-09 17:08:22.547 ERROR 【一个月】产品订单名称已存在，修改失败
+2018-08-09 17:08:54.600 INFO Authorized? True
+2018-08-09 17:08:54.600 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:08:54.605 INFO Authorized? True
+2018-08-09 17:09:08.922 INFO Authorized? True
+2018-08-09 17:09:08.922 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:09:08.923 INFO Authorized? True
+2018-08-09 17:09:11.498 INFO Authorized? True
+2018-08-09 17:09:11.498 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:09:11.498 INFO Authorized? True
+2018-08-09 17:10:03.170 INFO Authorized? True
+2018-08-09 17:10:03.171 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:10:03.172 INFO Authorized? True
+2018-08-09 17:16:26.316 INFO Authorized? True
+2018-08-09 17:16:26.316 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:16:26.316 INFO Authorized? True
+2018-08-09 17:16:26.819 INFO Authorized? True
+2018-08-09 17:16:26.819 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:16:26.820 INFO Authorized? True
+2018-08-09 17:16:27.886 INFO Authorized? True
+2018-08-09 17:16:27.886 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 17:16:27.886 INFO Authorized? True
+2018-08-09 21:40:06.836 INFO Authorized? False
+2018-08-09 21:40:06.855 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 21:40:12.257 INFO Authorized? True
+2018-08-09 21:40:12.257 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 21:40:12.261 INFO Authorized? True
+2018-08-09 21:40:20.255 INFO Authorized? True
+2018-08-09 21:40:20.255 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 21:40:20.304 INFO Authorized? True
+2018-08-09 21:44:01.399 INFO Authorized? True
+2018-08-09 21:44:01.399 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 21:44:01.400 INFO Authorized? True
+2018-08-09 21:48:04.609 INFO Authorized? True
+2018-08-09 21:48:04.609 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 21:48:04.610 INFO Authorized? True
+2018-08-09 22:02:19.051 INFO Authorized? True
+2018-08-09 22:02:19.060 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:02:21.077 INFO Authorized? True
+2018-08-09 22:09:56.446 INFO Authorized? True
+2018-08-09 22:09:56.455 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:09:58.438 INFO Authorized? True
+2018-08-09 22:10:11.200 INFO Authorized? True
+2018-08-09 22:10:11.200 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:10:11.227 INFO Authorized? True
+2018-08-09 22:10:12.796 INFO Authorized? True
+2018-08-09 22:10:12.796 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:10:12.797 INFO Authorized? True
+2018-08-09 22:10:17.128 INFO Authorized? True
+2018-08-09 22:10:17.128 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:10:17.128 INFO Authorized? True
+2018-08-09 22:10:30.324 INFO Authorized? True
+2018-08-09 22:10:30.324 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:10:30.324 INFO Authorized? True
+2018-08-09 22:12:08.974 INFO Authorized? True
+2018-08-09 22:12:08.974 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:12:08.974 INFO Authorized? True
+2018-08-09 22:12:17.903 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-操作失败: 无法更改关系，因为一个或多个外键属性不可以为 null。对关系作出更改后，会将相关的外键属性设置为 null 值。如果外键不支持 null 值，则必须定义新的关系，必须向外键属性分配另一个非 null 值，或必须删除无关的对象。;
+2018-08-09 22:12:17.904 ERROR 操作失败: 无法更改关系，因为一个或多个外键属性不可以为 null。对关系作出更改后，会将相关的外键属性设置为 null 值。如果外键不支持 null 值，则必须定义新的关系，必须向外键属性分配另一个非 null 值，或必须删除无关的对象。
+2018-08-09 22:12:38.979 INFO Authorized? True
+2018-08-09 22:12:38.991 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:12:41.185 INFO Authorized? True
+2018-08-09 22:12:51.267 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-操作失败: 无法更改关系，因为一个或多个外键属性不可以为 null。对关系作出更改后，会将相关的外键属性设置为 null 值。如果外键不支持 null 值，则必须定义新的关系，必须向外键属性分配另一个非 null 值，或必须删除无关的对象。;
+2018-08-09 22:12:51.267 ERROR 操作失败: 无法更改关系，因为一个或多个外键属性不可以为 null。对关系作出更改后，会将相关的外键属性设置为 null 值。如果外键不支持 null 值，则必须定义新的关系，必须向外键属性分配另一个非 null 值，或必须删除无关的对象。
+2018-08-09 22:15:46.214 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-操作失败: 无法更改关系，因为一个或多个外键属性不可以为 null。对关系作出更改后，会将相关的外键属性设置为 null 值。如果外键不支持 null 值，则必须定义新的关系，必须向外键属性分配另一个非 null 值，或必须删除无关的对象。;
+2018-08-09 22:15:46.214 ERROR 操作失败: 无法更改关系，因为一个或多个外键属性不可以为 null。对关系作出更改后，会将相关的外键属性设置为 null 值。如果外键不支持 null 值，则必须定义新的关系，必须向外键属性分配另一个非 null 值，或必须删除无关的对象。
+2018-08-09 22:15:52.405 INFO Authorized? True
+2018-08-09 22:15:52.405 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:15:52.406 INFO Authorized? True
+2018-08-09 22:16:35.454 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-操作失败: 无法更改关系，因为一个或多个外键属性不可以为 null。对关系作出更改后，会将相关的外键属性设置为 null 值。如果外键不支持 null 值，则必须定义新的关系，必须向外键属性分配另一个非 null 值，或必须删除无关的对象。;
+2018-08-09 22:16:35.454 ERROR 操作失败: 无法更改关系，因为一个或多个外键属性不可以为 null。对关系作出更改后，会将相关的外键属性设置为 null 值。如果外键不支持 null 值，则必须定义新的关系，必须向外键属性分配另一个非 null 值，或必须删除无关的对象。
+2018-08-09 22:16:46.107 INFO Authorized? True
+2018-08-09 22:16:46.107 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:16:46.108 INFO Authorized? True
+2018-08-09 22:16:49.268 INFO Authorized? True
+2018-08-09 22:16:49.268 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:16:49.269 INFO Authorized? True
+2018-08-09 22:16:52.849 ERROR Error occurred in WebApi.Controller-Product;ExceptionMessage-操作失败: 无法更改关系，因为一个或多个外键属性不可以为 null。对关系作出更改后，会将相关的外键属性设置为 null 值。如果外键不支持 null 值，则必须定义新的关系，必须向外键属性分配另一个非 null 值，或必须删除无关的对象。;
+2018-08-09 22:16:52.849 ERROR 操作失败: 无法更改关系，因为一个或多个外键属性不可以为 null。对关系作出更改后，会将相关的外键属性设置为 null 值。如果外键不支持 null 值，则必须定义新的关系，必须向外键属性分配另一个非 null 值，或必须删除无关的对象。
+2018-08-09 22:23:06.119 INFO Authorized? True
+2018-08-09 22:23:06.129 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:23:08.656 INFO Authorized? True
+2018-08-09 22:23:43.637 INFO Authorized? True
+2018-08-09 22:23:43.637 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:23:43.666 INFO Authorized? True
+2018-08-09 22:24:18.144 INFO Authorized? True
+2018-08-09 22:24:18.154 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:24:20.322 INFO Authorized? True
+2018-08-09 22:24:31.825 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-更新条目时出错。有关详细信息，请参阅内部异常。;
+2018-08-09 22:24:31.825 ERROR DELETE 语句与 REFERENCE 约束"FK_SystemLog_SystemUser"冲突。该冲突发生于数据库"TJADWeiXinDB"，表"dbo.SystemLog", column 'CreationUserID'。
+语句已终止。
+2018-08-09 22:28:40.506 INFO Authorized? True
+2018-08-09 22:28:40.519 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 22:28:42.839 INFO Authorized? True
+2018-08-09 22:28:49.632 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-操作失败: 无法更改关系，因为一个或多个外键属性不可以为 null。对关系作出更改后，会将相关的外键属性设置为 null 值。如果外键不支持 null 值，则必须定义新的关系，必须向外键属性分配另一个非 null 值，或必须删除无关的对象。;
+2018-08-09 22:28:49.636 ERROR 操作失败: 无法更改关系，因为一个或多个外键属性不可以为 null。对关系作出更改后，会将相关的外键属性设置为 null 值。如果外键不支持 null 值，则必须定义新的关系，必须向外键属性分配另一个非 null 值，或必须删除无关的对象。
+2018-08-09 23:35:26.185 INFO Authorized? False
+2018-08-09 23:35:26.197 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:35:28.582 INFO Authorized? False
+2018-08-09 23:39:25.609 INFO Authorized? True
+2018-08-09 23:39:25.619 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:39:25.682 INFO Authorized? True
+2018-08-09 23:39:28.680 INFO Authorized? True
+2018-08-09 23:39:28.680 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:39:28.734 INFO Authorized? True
+2018-08-09 23:39:33.335 INFO Authorized? True
+2018-08-09 23:39:33.335 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:39:33.336 INFO Authorized? True
+2018-08-09 23:39:40.102 INFO Authorized? True
+2018-08-09 23:39:40.102 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:39:40.104 INFO Authorized? True
+2018-08-09 23:44:20.198 INFO Authorized? True
+2018-08-09 23:44:20.199 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:44:20.199 INFO Authorized? True
+2018-08-09 23:45:22.698 INFO Authorized? True
+2018-08-09 23:45:22.709 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:45:25.107 INFO Authorized? True
+2018-08-09 23:49:07.827 INFO Authorized? True
+2018-08-09 23:49:07.837 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:49:09.952 INFO Authorized? True
+2018-08-09 23:49:17.186 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5ECB237C91B51517B1EFD510A704911330638AD1CC578606D1CC5192C143EBBC'. Path 'SystemLog[0]'.;
+2018-08-09 23:49:17.187 ERROR Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5ECB237C91B51517B1EFD510A704911330638AD1CC578606D1CC5192C143EBBC'. Path 'SystemLog[0]'.
+2018-08-09 23:49:49.416 INFO Authorized? True
+2018-08-09 23:49:49.416 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:49:49.416 INFO Authorized? True
+2018-08-09 23:50:12.847 INFO Authorized? True
+2018-08-09 23:50:12.847 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:50:12.847 INFO Authorized? True
+2018-08-09 23:50:31.041 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5ECB237C91B51517B1EFD510A704911330638AD1CC578606D1CC5192C143EBBC'. Path 'SystemLog[0]'.;
+2018-08-09 23:50:31.041 ERROR Self referencing loop detected for property 'SystemUser' with type 'System.Data.Entity.DynamicProxies.SystemUser_5ECB237C91B51517B1EFD510A704911330638AD1CC578606D1CC5192C143EBBC'. Path 'SystemLog[0]'.
+2018-08-09 23:52:00.583 INFO Authorized? True
+2018-08-09 23:52:00.593 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:52:02.698 INFO Authorized? True
+2018-08-09 23:52:47.606 INFO Authorized? True
+2018-08-09 23:52:47.606 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:52:47.643 INFO Authorized? True
+2018-08-09 23:52:55.634 INFO Authorized? True
+2018-08-09 23:52:55.634 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:52:55.634 INFO Authorized? True
+2018-08-09 23:58:30.685 INFO Authorized? True
+2018-08-09 23:58:30.696 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-09 23:58:33.000 INFO Authorized? True

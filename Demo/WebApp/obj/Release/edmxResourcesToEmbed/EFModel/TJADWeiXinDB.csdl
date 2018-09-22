@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TJADWeiXinDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="TJADWeiXinDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Product" EntityType="TJADWeiXinDBModel.Product" />
+    <EntitySet Name="ProductOrder" EntityType="TJADWeiXinDBModel.ProductOrder" />
+    <EntitySet Name="SystemLog" EntityType="TJADWeiXinDBModel.SystemLog" />
+    <EntitySet Name="SystemUser" EntityType="TJADWeiXinDBModel.SystemUser" />
+    <EntitySet Name="User" EntityType="TJADWeiXinDBModel.User" />
+    <AssociationSet Name="FK_Product_SystemUser" Association="TJADWeiXinDBModel.FK_Product_SystemUser">
+      <End Role="SystemUser" EntitySet="SystemUser" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductOrder_Product" Association="TJADWeiXinDBModel.FK_ProductOrder_Product">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="ProductOrder" EntitySet="ProductOrder" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductOrder_SystemUser" Association="TJADWeiXinDBModel.FK_ProductOrder_SystemUser">
+      <End Role="SystemUser" EntitySet="SystemUser" />
+      <End Role="ProductOrder" EntitySet="ProductOrder" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SystemLog_SystemUser" Association="TJADWeiXinDBModel.FK_SystemLog_SystemUser">
+      <End Role="SystemUser" EntitySet="SystemUser" />
+      <End Role="SystemLog" EntitySet="SystemLog" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DisplayName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ProductKey" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CreationUserID" Type="Int32" Nullable="false" />
+    <Property Name="CreationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Remark" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="SystemUser" Relationship="TJADWeiXinDBModel.FK_Product_SystemUser" FromRole="Product" ToRole="SystemUser" />
+    <NavigationProperty Name="ProductOrder" Relationship="TJADWeiXinDBModel.FK_ProductOrder_Product" FromRole="Product" ToRole="ProductOrder" />
+  </EntityType>
+  <EntityType Name="ProductOrder">
+    <Key>
+      <PropertyRef Name="No" />
+    </Key>
+    <Property Name="No" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="OrderName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ProductID" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="UseMonth" Type="Int32" Nullable="false" />
+    <Property Name="Remark" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="CreationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreationUserID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Product" Relationship="TJADWeiXinDBModel.FK_ProductOrder_Product" FromRole="ProductOrder" ToRole="Product" />
+    <NavigationProperty Name="SystemUser" Relationship="TJADWeiXinDBModel.FK_ProductOrder_SystemUser" FromRole="ProductOrder" ToRole="SystemUser" />
+  </EntityType>
+  <EntityType Name="SystemLog">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ModulePage" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Remark" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CreationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreationUserID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="SystemUser" Relationship="TJADWeiXinDBModel.FK_SystemLog_SystemUser" FromRole="SystemLog" ToRole="SystemUser" />
+  </EntityType>
+  <EntityType Name="SystemUser">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DisplayName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="UserFace" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Product" Relationship="TJADWeiXinDBModel.FK_Product_SystemUser" FromRole="SystemUser" ToRole="Product" />
+    <NavigationProperty Name="ProductOrder" Relationship="TJADWeiXinDBModel.FK_ProductOrder_SystemUser" FromRole="SystemUser" ToRole="ProductOrder" />
+    <NavigationProperty Name="SystemLog" Relationship="TJADWeiXinDBModel.FK_SystemLog_SystemUser" FromRole="SystemUser" ToRole="SystemLog" />
+    <Property Name="IsDelete" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DisplayName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Country" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Province" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="City" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Sex" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="OpenID" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="UserFace" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="CreationDateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="AttentionDateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CancelAttentionDateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CanAttention" Type="Boolean" Nullable="false" />
+    <Property Name="Remark" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_Product_SystemUser">
+    <End Type="TJADWeiXinDBModel.SystemUser" Role="SystemUser" Multiplicity="1" />
+    <End Type="TJADWeiXinDBModel.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SystemUser">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="CreationUserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductOrder_Product">
+    <End Type="TJADWeiXinDBModel.Product" Role="Product" Multiplicity="1" />
+    <End Type="TJADWeiXinDBModel.ProductOrder" Role="ProductOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ProductOrder">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductOrder_SystemUser">
+    <End Type="TJADWeiXinDBModel.SystemUser" Role="SystemUser" Multiplicity="1" />
+    <End Type="TJADWeiXinDBModel.ProductOrder" Role="ProductOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SystemUser">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ProductOrder">
+        <PropertyRef Name="CreationUserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SystemLog_SystemUser">
+    <End Type="TJADWeiXinDBModel.SystemUser" Role="SystemUser" Multiplicity="1" />
+    <End Type="TJADWeiXinDBModel.SystemLog" Role="SystemLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SystemUser">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="SystemLog">
+        <PropertyRef Name="CreationUserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

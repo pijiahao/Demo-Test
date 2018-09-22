@@ -1,0 +1,99 @@
+﻿
+@{
+    ViewBag.Title = "系统设置";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Content/appjs/User/systemsetting.js"></script>
+<div class="col-lg-4">
+    <div class="panel panel-default">
+        <div class="panel-body panel_body">
+            <table data-toggle="table" id="usertable" class="table table-hover" data-page-size="10"
+                   data-query-params-type=""
+                   data-query-params=customquery
+                   data-side-pagination="server"
+                   data-url="/api/SystemUser/QuerySystemUserByPage"
+                   data-pagination="true">
+                <thead>
+                    <tr>
+                        <th data-field="UserName" data-align="left">用户名</th>
+                        <th data-field="DisplayName">用户姓名</th>
+                        <th data-field="ID" data-width="150" data-formatter="operateFormatter" data-events="operateEvents">操作</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+    <!-- /.panel-body -->
+</div>
+<div class="col-lg-8 ">
+    <div class="panel panel-default">
+        <div class="panel-body panel_body">
+            <table data-toggle="table" id="logtable" class="table table-hover" data-page-size="5"
+                   data-query-params-type=""
+                   data-query-params=logquery
+                   data-side-pagination="server"
+                   data-url="/api/SystemUser/QuerySystemLogByPage"
+                   data-pagination="true">
+                <thead>
+                    <tr>
+                        <th data-field="ModulePage" data-align="left">模块</th>
+                        <th data-width="400" data-field="Remark">备注</th>
+                        <th data-field="CreationDate" data-formatter="operateDateFormatter">时间</th>
+                        <th data-field="UserDisplayName">用户</th>
+                        @*<th data-field="ID" data-width="200" data-formatter="operateLogFormatter" data-events="operateEvents">操作</th>*@
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+    <!-- /.panel-body -->
+</div>
+
+<div class="modal fade in" id="SystemUserModal" tabindex="-1" role="dialog" aria-hidden="false">
+    <div class="modal-dialog">
+        <div class="modal-wrapper">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">用户信息</h4>
+                </div>
+                <form  id="SystemUsersForm" class="form-horizontal" enctype="multipart/form-data">
+                    <div class="modal-body">
+                        <input type="hidden" id="userid" value="0" />
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label form-label">用户名</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" name="username" placeholder="请输入用户名（必填）"  id="Name" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label form-label">密码</label>
+                            <div class="col-sm-10">
+                                <input type="password"  class="form-control"  placeholder="请输入密码（必填）" id="Password" >
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label form-label">确认密码</label>
+                            <div class="col-sm-10">
+                                <input type="password" class="form-control" equalTo="#Password"  placeholder="请再次输入密码（必填）" id="ConfirmPassword" >
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label form-label">用户姓名</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control"  placeholder="请输入用户姓名（必填）" id="DisplayName" required>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default systemUserSave">保存</button>
+                        <button type="button" class="btn btn-white" data-dismiss="modal">关闭</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

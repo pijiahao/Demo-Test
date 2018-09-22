@@ -1,0 +1,158 @@
+2018-08-29 15:34:24.920 INFO Authorized? True
+2018-08-29 15:34:24.948 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-29 15:34:25.085 INFO Authorized? True
+2018-08-29 15:35:46.846 INFO Authorized? True
+2018-08-29 15:35:46.847 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-29 15:35:46.850 INFO Authorized? True
+2018-08-29 15:35:47.461 INFO GetWeiXinMedia post data:{"type":"news","offset":0,"count":10}
+2018-08-29 15:35:47.467 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 15:35:47.858 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [NKooKA01481533]"}
+2018-08-29 15:35:47.959 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 15:35:47.965 INFO WebRequestPost url:https://api.weixin.qq.com/cgi-bin/material/batchget_material?access_token=
+2018-08-29 15:35:58.745 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-未将对象引用设置到对象的实例。;
+2018-08-29 15:35:58.745 ERROR 未将对象引用设置到对象的实例。
+2018-08-29 15:36:23.857 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 15:36:24.054 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [0TgU3a0185sha2]"}
+2018-08-29 15:36:24.096 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 15:36:25.557 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 15:36:25.628 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [NO43Ua0186sha2]"}
+2018-08-29 15:36:25.670 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 15:36:38.556 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 15:36:38.621 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [KHhKua01991512]"}
+2018-08-29 15:36:38.658 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 15:36:40.823 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 15:36:40.884 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [R_.ltA02011512]"}
+2018-08-29 15:36:40.923 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 15:36:43.077 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 15:36:43.161 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [5HktPA02043055]"}
+2018-08-29 15:36:43.210 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 15:36:45.729 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 15:36:45.821 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [Y9eRdA02062790]"}
+2018-08-29 15:36:45.865 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 15:36:52.583 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 15:36:52.866 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [v3vLca02133064]"}
+2018-08-29 15:36:52.909 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 15:37:04.812 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-输入字符串的格式不正确。;
+2018-08-29 15:37:04.813 ERROR 输入字符串的格式不正确。
+2018-08-29 15:53:05.550 INFO Authorized? True
+2018-08-29 15:53:05.564 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-29 15:53:05.676 INFO Authorized? True
+2018-08-29 15:53:12.838 INFO Authorized? True
+2018-08-29 15:53:12.838 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-29 15:53:12.839 INFO Authorized? True
+2018-08-29 15:53:13.236 INFO GetWeiXinMedia post data:{"type":"news","offset":0,"count":10}
+2018-08-29 15:53:13.239 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 15:53:13.465 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [ai1k3a01942790]"}
+2018-08-29 15:53:13.465 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 15:53:13.465 INFO WebRequestPost url:https://api.weixin.qq.com/cgi-bin/material/batchget_material?access_token=
+2018-08-29 15:53:13.520 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-未将对象引用设置到对象的实例。;
+2018-08-29 15:53:13.520 ERROR 未将对象引用设置到对象的实例。
+2018-08-29 15:53:44.685 INFO DownloadMedia mediaID data:GjRvJbLZ7vUkFgRxItFpuH10GDtV3V_MbyWjVUlFHtQ
+2018-08-29 15:53:44.911 INFO DownloadMedia downloadPath data:F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\图片7.png
+2018-08-29 15:53:45.103 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 15:53:45.276 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [PzlRGa02263064]"}
+2018-08-29 15:53:45.344 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 15:53:45.386 INFO DownloadMedia Token data:
+2018-08-29 15:53:45.831 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 15:53:45.891 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [BGxaOA02262790]"}
+2018-08-29 15:53:46.007 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 15:53:48.079 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-输入字符串的格式不正确。;
+2018-08-29 15:53:48.079 ERROR 输入字符串的格式不正确。
+2018-08-29 15:54:08.682 INFO Authorized? True
+2018-08-29 15:54:08.689 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-29 15:54:10.906 INFO Authorized? True
+2018-08-29 15:54:19.325 INFO DownloadMedia mediaID data:GjRvJbLZ7vUkFgRxItFpuH10GDtV3V_MbyWjVUlFHtQ
+2018-08-29 15:54:19.887 INFO DownloadMedia downloadPath data:F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\图片7.png
+2018-08-29 15:54:20.509 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 15:54:20.826 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [PdSOna02613064]"}
+2018-08-29 15:54:20.890 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 15:54:20.934 INFO DownloadMedia Token data:
+2018-08-29 15:54:35.880 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-输入字符串的格式不正确。;
+2018-08-29 15:54:35.881 ERROR 输入字符串的格式不正确。
+2018-08-29 15:54:36.089 INFO GetWeiXinMedia post data:{"type":"news","offset":0,"count":10}
+2018-08-29 15:54:36.090 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 15:54:36.187 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [.zNjea02773064]"}
+2018-08-29 15:54:36.187 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 15:54:36.187 INFO WebRequestPost url:https://api.weixin.qq.com/cgi-bin/material/batchget_material?access_token=
+2018-08-29 15:54:36.249 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-未将对象引用设置到对象的实例。;
+2018-08-29 15:54:36.250 ERROR 未将对象引用设置到对象的实例。
+2018-08-29 16:01:06.060 INFO DownloadMedia mediaID data:GjRvJbLZ7vUkFgRxItFpuH10GDtV3V_MbyWjVUlFHtQ
+2018-08-29 16:01:06.748 INFO DownloadMedia downloadPath data:F:/项目/WeiXin/WebApp.WeiXin.TJAD/data/media/image/图片7.png
+2018-08-29 16:01:08.884 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 16:01:09.219 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [TGraoa06702790]"}
+2018-08-29 16:01:09.284 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 16:01:09.328 INFO DownloadMedia Token data:
+2018-08-29 16:01:09.777 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 16:01:09.891 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [sngXpa06703612]"}
+2018-08-29 16:01:09.954 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 16:01:11.236 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 16:01:11.301 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [nvVMEa06722790]"}
+2018-08-29 16:01:11.342 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 16:01:12.917 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 16:01:12.995 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [X4Jpma0674sha2]"}
+2018-08-29 16:01:13.035 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 16:01:15.288 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-输入字符串的格式不正确。;
+2018-08-29 16:01:15.289 ERROR 输入字符串的格式不正确。
+2018-08-29 16:02:16.835 INFO DownloadMedia mediaID data:GjRvJbLZ7vUkFgRxItFpuH10GDtV3V_MbyWjVUlFHtQ
+2018-08-29 16:02:16.842 INFO DownloadMedia downloadPath data:F:/项目/WeiXin/WebApp.WeiXin.TJAD/data/media/image/图片7.png
+2018-08-29 16:02:16.843 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 16:02:17.122 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [IT6JfA07382974]"}
+2018-08-29 16:02:17.123 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 16:02:17.123 INFO DownloadMedia Token data:
+2018-08-29 16:02:17.127 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-输入字符串的格式不正确。;
+2018-08-29 16:02:17.127 ERROR 输入字符串的格式不正确。
+2018-08-29 16:02:34.869 INFO DownloadMedia mediaID data:GjRvJbLZ7vUkFgRxItFpuH10GDtV3V_MbyWjVUlFHtQ
+2018-08-29 16:02:34.998 INFO DownloadMedia downloadPath data:F:/项目/WeiXin/WebApp.WeiXin.TJAD/data/media/image/图片7.png
+2018-08-29 16:02:35.592 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 16:02:35.676 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [dBdAca07562790]"}
+2018-08-29 16:02:35.740 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 16:02:35.842 INFO DownloadMedia Token data:
+2018-08-29 16:02:49.026 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 16:02:49.092 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [rbc6hA07703054]"}
+2018-08-29 16:02:49.135 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 16:03:05.483 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-输入字符串的格式不正确。;
+2018-08-29 16:03:05.483 ERROR 输入字符串的格式不正确。
+2018-08-29 16:08:07.455 INFO Authorized? True
+2018-08-29 16:08:07.463 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-29 16:08:09.319 INFO Authorized? True
+2018-08-29 16:08:11.800 INFO GetWeiXinMedia post data:{"type":"news","offset":0,"count":10}
+2018-08-29 16:08:11.802 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 16:08:12.047 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [bq7Lfa00932974]"}
+2018-08-29 16:08:12.047 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 16:08:12.048 INFO WebRequestPost url:https://api.weixin.qq.com/cgi-bin/material/batchget_material?access_token=
+2018-08-29 16:08:12.143 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-未将对象引用设置到对象的实例。;
+2018-08-29 16:08:12.143 ERROR 未将对象引用设置到对象的实例。
+2018-08-29 16:08:15.283 INFO DownloadMedia mediaID data:GjRvJbLZ7vUkFgRxItFpuH10GDtV3V_MbyWjVUlFHtQ
+2018-08-29 16:08:15.283 INFO DownloadMedia downloadPath data:F:/项目/WeiXin/WebApp.WeiXin.TJAD/data/media/image/图片7.png
+2018-08-29 16:08:15.283 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 16:08:15.364 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [bn3twA00961512]"}
+2018-08-29 16:08:15.364 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 16:08:15.364 INFO DownloadMedia Token data:
+2018-08-29 16:08:15.364 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-29 16:08:15.429 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [DcSaLa00963612]"}
+2018-08-29 16:08:15.429 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-29 16:08:15.429 INFO DownloadMedia cmdStr data:curl -o @F:/项目/WeiXin/WebApp.WeiXin.TJAD/data/media/image/图片7.png "https://api.weixin.qq.com/cgi-bin/material/get_material?access_token=" -d '{"media_id":"GjRvJbLZ7vUkFgRxItFpuH10GDtV3V_MbyWjVUlFHtQ"}'
+2018-08-29 16:08:15.453 INFO DownloadMedia result data:

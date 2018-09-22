@@ -1,0 +1,135 @@
+2018-08-08 17:08:34.861 INFO Authorized? True
+2018-08-08 17:08:34.872 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 17:08:35.005 INFO Authorized? True
+2018-08-08 17:08:52.621 INFO Authorized? True
+2018-08-08 17:08:52.621 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 17:08:52.684 INFO Authorized? True
+2018-08-08 17:10:03.136 INFO Authorized? False
+2018-08-08 17:10:03.136 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 17:10:08.554 INFO Authorized? True
+2018-08-08 17:10:08.554 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 17:10:08.554 INFO Authorized? True
+2018-08-08 17:10:18.862 INFO Authorized? True
+2018-08-08 17:10:18.862 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 17:10:18.864 INFO Authorized? True
+2018-08-08 17:10:24.920 INFO Authorized? True
+2018-08-08 17:10:24.920 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 17:10:24.923 INFO Authorized? True
+2018-08-08 17:10:30.758 INFO Authorized? True
+2018-08-08 17:10:30.758 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 17:10:30.759 INFO Authorized? True
+2018-08-08 17:10:36.806 INFO Authorized? True
+2018-08-08 17:10:36.807 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 17:10:36.808 INFO Authorized? True
+2018-08-08 17:17:55.117 INFO Authorized? True
+2018-08-08 17:17:55.117 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 17:17:55.118 INFO Authorized? True
+2018-08-08 17:17:56.519 INFO Authorized? True
+2018-08-08 17:17:56.519 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 17:17:56.520 INFO Authorized? True
+2018-08-08 17:17:56.764 INFO Authorized? True
+2018-08-08 17:17:56.764 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 17:17:56.765 INFO Authorized? True
+2018-08-08 17:18:43.367 INFO Authorized? True
+2018-08-08 17:18:43.367 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 17:18:43.368 INFO Authorized? True
+2018-08-08 17:18:48.977 INFO Authorized? True
+2018-08-08 17:18:48.977 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 17:18:48.978 INFO Authorized? True
+2018-08-08 22:44:52.794 INFO Authorized? True
+2018-08-08 22:44:52.825 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 22:44:52.915 INFO Authorized? True
+2018-08-08 22:44:58.302 INFO Authorized? True
+2018-08-08 22:44:58.302 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 22:44:58.350 INFO Authorized? True
+2018-08-08 22:47:10.580 INFO Authorized? True
+2018-08-08 22:47:10.580 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 22:47:10.581 INFO Authorized? True
+2018-08-08 22:48:17.694 INFO Authorized? True
+2018-08-08 22:48:17.694 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 22:48:17.695 INFO Authorized? True
+2018-08-08 22:49:18.864 INFO Authorized? True
+2018-08-08 22:49:18.864 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 22:49:18.865 INFO Authorized? True
+2018-08-08 23:33:57.123 INFO Authorized? False
+2018-08-08 23:33:57.133 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:33:59.379 INFO Authorized? False
+2018-08-08 23:34:22.114 INFO Authorized? False
+2018-08-08 23:34:22.114 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:34:22.165 INFO Authorized? False
+2018-08-08 23:34:35.731 INFO Authorized? False
+2018-08-08 23:34:35.731 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:34:35.731 INFO Authorized? False
+2018-08-08 23:34:40.081 INFO Authorized? False
+2018-08-08 23:34:40.081 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:34:40.081 INFO Authorized? False
+2018-08-08 23:35:21.344 INFO Authorized? True
+2018-08-08 23:35:21.355 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:21.423 INFO Authorized? True
+2018-08-08 23:35:24.680 INFO Authorized? True
+2018-08-08 23:35:24.680 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:24.726 INFO Authorized? True
+2018-08-08 23:35:26.284 INFO Authorized? True
+2018-08-08 23:35:26.284 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:26.284 INFO Authorized? True
+2018-08-08 23:35:27.766 INFO Authorized? True
+2018-08-08 23:35:27.766 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:27.767 INFO Authorized? True
+2018-08-08 23:35:29.059 INFO Authorized? True
+2018-08-08 23:35:29.059 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:29.059 INFO Authorized? True
+2018-08-08 23:35:30.067 INFO Authorized? True
+2018-08-08 23:35:30.067 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:30.068 INFO Authorized? True
+2018-08-08 23:35:31.016 INFO Authorized? True
+2018-08-08 23:35:31.016 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:31.017 INFO Authorized? True
+2018-08-08 23:35:31.775 INFO Authorized? True
+2018-08-08 23:35:31.775 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:31.776 INFO Authorized? True
+2018-08-08 23:35:32.768 INFO Authorized? True
+2018-08-08 23:35:32.768 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:32.768 INFO Authorized? True
+2018-08-08 23:35:33.597 INFO Authorized? True
+2018-08-08 23:35:33.597 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:33.598 INFO Authorized? True
+2018-08-08 23:35:34.201 INFO Authorized? True
+2018-08-08 23:35:34.201 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:34.201 INFO Authorized? True
+2018-08-08 23:35:34.994 INFO Authorized? True
+2018-08-08 23:35:34.994 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:34.994 INFO Authorized? True
+2018-08-08 23:35:36.471 INFO Authorized? True
+2018-08-08 23:35:36.471 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:36.472 INFO Authorized? True
+2018-08-08 23:35:38.300 INFO Authorized? True
+2018-08-08 23:35:38.300 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:38.301 INFO Authorized? True
+2018-08-08 23:35:39.306 INFO Authorized? True
+2018-08-08 23:35:39.306 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:39.307 INFO Authorized? True
+2018-08-08 23:35:39.804 INFO Authorized? True
+2018-08-08 23:35:39.805 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:39.805 INFO Authorized? True
+2018-08-08 23:35:40.397 INFO Authorized? True
+2018-08-08 23:35:40.397 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:40.397 INFO Authorized? True
+2018-08-08 23:35:42.891 INFO Authorized? True
+2018-08-08 23:35:42.891 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:35:42.892 INFO Authorized? True
+2018-08-08 23:35:50.271 INFO Authorized? True
+2018-08-08 23:35:50.271 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:36:01.968 INFO Authorized? True
+2018-08-08 23:36:01.968 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:36:06.922 INFO Authorized? True
+2018-08-08 23:36:06.922 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:36:06.922 INFO Authorized? True
+2018-08-08 23:36:20.770 INFO Authorized? True
+2018-08-08 23:36:20.770 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:36:20.770 INFO Authorized? True
+2018-08-08 23:52:09.138 INFO Authorized? True
+2018-08-08 23:52:09.149 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:52:11.289 INFO Authorized? True
+2018-08-08 23:52:48.669 INFO Authorized? True
+2018-08-08 23:52:48.679 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-08 23:52:50.741 INFO Authorized? True

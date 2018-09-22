@@ -1,0 +1,233 @@
+2018-08-30 09:08:48.344 INFO Authorized? True
+2018-08-30 09:08:48.367 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:08:48.532 INFO Authorized? True
+2018-08-30 09:09:00.446 INFO Authorized? True
+2018-08-30 09:09:00.446 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:09:00.447 INFO Authorized? True
+2018-08-30 09:09:47.173 INFO Authorized? True
+2018-08-30 09:09:47.174 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:09:47.174 INFO Authorized? True
+2018-08-30 09:09:47.310 INFO GetWeiXinMedia post data:{"type":"news","offset":0,"count":10}
+2018-08-30 09:09:47.317 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-30 09:09:47.684 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [d1uMuA03881533]"}
+2018-08-30 09:09:47.688 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-30 09:09:47.688 INFO WebRequestPost url:https://api.weixin.qq.com/cgi-bin/material/batchget_material?access_token=
+2018-08-30 09:09:47.769 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-未将对象引用设置到对象的实例。;
+2018-08-30 09:09:47.769 ERROR 未将对象引用设置到对象的实例。
+2018-08-30 09:09:50.751 INFO GetWeiXinMedia post data:{"type":"video","offset":0,"count":10}
+2018-08-30 09:09:50.752 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-30 09:09:50.854 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [airrda03913064]"}
+2018-08-30 09:09:50.854 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-30 09:09:50.854 INFO WebRequestPost url:https://api.weixin.qq.com/cgi-bin/material/batchget_material?access_token=
+2018-08-30 09:09:50.914 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-未将对象引用设置到对象的实例。;
+2018-08-30 09:09:50.915 ERROR 未将对象引用设置到对象的实例。
+2018-08-30 09:09:51.845 INFO GetWeiXinMedia post data:{"type":"news","offset":0,"count":10}
+2018-08-30 09:09:51.845 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-30 09:09:51.944 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [_03923055]"}
+2018-08-30 09:09:51.944 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-30 09:09:51.944 INFO WebRequestPost url:https://api.weixin.qq.com/cgi-bin/material/batchget_material?access_token=
+2018-08-30 09:09:51.987 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-未将对象引用设置到对象的实例。;
+2018-08-30 09:09:51.987 ERROR 未将对象引用设置到对象的实例。
+2018-08-30 09:09:53.363 INFO Authorized? True
+2018-08-30 09:09:53.363 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:09:53.363 INFO Authorized? True
+2018-08-30 09:09:55.369 INFO Authorized? True
+2018-08-30 09:09:55.369 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:09:55.372 INFO Authorized? True
+2018-08-30 09:10:00.025 INFO Authorized? True
+2018-08-30 09:10:00.025 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:10:00.026 INFO Authorized? True
+2018-08-30 09:11:19.690 INFO Authorized? True
+2018-08-30 09:11:19.690 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:11:19.691 INFO Authorized? True
+2018-08-30 09:11:23.700 INFO Authorized? True
+2018-08-30 09:11:23.700 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:11:23.701 INFO Authorized? True
+2018-08-30 09:11:24.774 INFO Authorized? True
+2018-08-30 09:11:24.774 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:11:24.775 INFO Authorized? True
+2018-08-30 09:11:27.218 INFO Authorized? True
+2018-08-30 09:11:27.218 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:11:27.218 INFO Authorized? True
+2018-08-30 09:11:36.023 INFO Authorized? True
+2018-08-30 09:11:36.024 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:11:36.024 INFO Authorized? True
+2018-08-30 09:11:37.861 INFO Authorized? True
+2018-08-30 09:11:37.861 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:11:37.862 INFO Authorized? True
+2018-08-30 09:11:56.293 INFO Authorized? True
+2018-08-30 09:11:56.293 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:11:56.294 INFO Authorized? True
+2018-08-30 09:11:58.399 INFO Authorized? True
+2018-08-30 09:11:58.399 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:11:58.400 INFO Authorized? True
+2018-08-30 09:12:02.146 INFO Authorized? True
+2018-08-30 09:12:02.146 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:12:02.147 INFO Authorized? True
+2018-08-30 09:12:02.266 INFO GetWeiXinMedia post data:{"type":"news","offset":0,"count":10}
+2018-08-30 09:12:02.266 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-30 09:12:02.580 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [4p3ZEa05231533]"}
+2018-08-30 09:12:02.580 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-30 09:12:02.580 INFO WebRequestPost url:https://api.weixin.qq.com/cgi-bin/material/batchget_material?access_token=
+2018-08-30 09:12:02.671 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-未将对象引用设置到对象的实例。;
+2018-08-30 09:12:02.671 ERROR 未将对象引用设置到对象的实例。
+2018-08-30 09:12:03.967 INFO Authorized? True
+2018-08-30 09:12:03.967 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:12:03.968 INFO Authorized? True
+2018-08-30 09:16:05.377 INFO Authorized? True
+2018-08-30 09:16:05.377 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:16:05.377 INFO Authorized? True
+2018-08-30 09:16:14.454 INFO Authorized? True
+2018-08-30 09:16:14.454 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 09:16:14.455 INFO Authorized? True
+2018-08-30 11:12:52.709 INFO Authorized? True
+2018-08-30 11:12:52.731 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 11:12:55.151 INFO Authorized? True
+2018-08-30 11:59:20.060 INFO Authorized? True
+2018-08-30 11:59:20.068 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 11:59:22.084 INFO Authorized? True
+2018-08-30 11:59:25.194 INFO Authorized? True
+2018-08-30 11:59:25.194 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 11:59:25.243 INFO Authorized? True
+2018-08-30 12:00:06.820 INFO Authorized? True
+2018-08-30 12:00:06.828 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 12:00:08.821 INFO Authorized? True
+2018-08-30 12:01:34.628 INFO Authorized? True
+2018-08-30 12:01:34.628 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 12:01:34.654 INFO Authorized? True
+2018-08-30 13:19:44.745 INFO Authorized? True
+2018-08-30 13:19:44.753 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 13:19:44.928 INFO Authorized? True
+2018-08-30 13:23:05.419 INFO Authorized? True
+2018-08-30 13:23:05.419 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 13:23:05.441 INFO Authorized? True
+2018-08-30 13:26:27.839 INFO Authorized? True
+2018-08-30 13:26:27.839 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 13:26:27.840 INFO Authorized? True
+2018-08-30 13:31:02.943 INFO Authorized? True
+2018-08-30 13:31:02.943 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 13:31:02.943 INFO Authorized? True
+2018-08-30 13:33:14.483 INFO Authorized? True
+2018-08-30 13:33:14.483 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 13:33:14.484 INFO Authorized? True
+2018-08-30 13:41:55.264 INFO Authorized? True
+2018-08-30 13:41:55.264 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 13:41:55.265 INFO Authorized? True
+2018-08-30 13:42:59.276 INFO Authorized? True
+2018-08-30 13:42:59.276 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 13:42:59.276 INFO Authorized? True
+2018-08-30 13:47:04.859 INFO Authorized? True
+2018-08-30 13:47:04.859 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 13:47:04.859 INFO Authorized? True
+2018-08-30 13:55:37.744 INFO Authorized? True
+2018-08-30 13:55:37.744 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 13:55:37.745 INFO Authorized? True
+2018-08-30 13:58:45.024 INFO Authorized? True
+2018-08-30 13:58:45.024 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 13:58:45.024 INFO Authorized? True
+2018-08-30 14:00:44.907 INFO Authorized? True
+2018-08-30 14:00:44.907 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 14:00:44.908 INFO Authorized? True
+2018-08-30 14:01:34.637 INFO Authorized? True
+2018-08-30 14:01:34.637 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 14:01:34.637 INFO Authorized? True
+2018-08-30 14:10:56.246 INFO Authorized? True
+2018-08-30 14:10:56.246 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 14:10:56.247 INFO Authorized? True
+2018-08-30 14:14:36.622 INFO Authorized? True
+2018-08-30 14:14:36.622 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 14:14:36.623 INFO Authorized? True
+2018-08-30 14:16:35.739 INFO Authorized? True
+2018-08-30 14:16:35.739 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 14:16:35.740 INFO Authorized? True
+2018-08-30 14:51:51.703 INFO Authorized? True
+2018-08-30 14:51:51.718 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 14:51:53.896 INFO Authorized? True
+2018-08-30 17:58:32.001 INFO Authorized? True
+2018-08-30 17:58:32.086 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 17:58:32.605 INFO Authorized? True
+2018-08-30 17:58:46.828 INFO Authorized? True
+2018-08-30 17:58:46.828 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 17:58:46.828 INFO Authorized? True
+2018-08-30 17:59:04.559 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-索引超出范围。必须为非负值并小于集合大小。
+参数名: index;
+2018-08-30 17:59:04.560 ERROR 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+2018-08-30 17:59:41.563 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-索引超出范围。必须为非负值并小于集合大小。
+参数名: index;
+2018-08-30 17:59:41.563 ERROR 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+2018-08-30 18:00:45.338 INFO Authorized? True
+2018-08-30 18:00:45.347 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 18:00:47.353 INFO Authorized? True
+2018-08-30 18:03:09.975 INFO Authorized? True
+2018-08-30 18:03:09.975 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 18:03:09.997 INFO Authorized? True
+2018-08-30 18:03:40.521 INFO UploadImageMedia mediaPath data:F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\f94e9714-bef7-4819-99f3-7bc1b73602ee.jpg
+2018-08-30 18:03:41.009 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-30 18:03:41.267 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [U_E9Ea04233054]"}
+2018-08-30 18:03:41.320 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-30 18:03:41.344 INFO UploadImageMedia Token data:
+2018-08-30 18:03:53.302 INFO UploadImageMedia cmdStr data:curl -F media=@F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\f94e9714-bef7-4819-99f3-7bc1b73602ee.jpg "https://api.weixin.qq.com/cgi-bin/media/uploadimg?access_token=13_w0d7k7edEJExDy4WY-LKSDzpszZSCRkNOg5wF2hkQM-dn5u4xuaVh2u_6zjxyOF1pDpORnesVs5XmxZa0Mu_I1P5454fCpZ_dYWW69jo0V6ATEfS9dRV6iBhbTopHqlIk1BHHbNgmctc0zAlPPVbADAGGM"
+2018-08-30 18:04:05.182 INFO UploadImageMedia result data:
+2018-08-30 18:04:19.538 INFO UploadImageMedia mediaPath data:F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\3af0b7da-2f4b-4d96-a9d1-daca12b05b07.jpg
+2018-08-30 18:04:19.709 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-30 18:04:19.860 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [px4QpA04612994]"}
+2018-08-30 18:04:19.927 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-30 18:04:19.959 INFO UploadImageMedia Token data:
+2018-08-30 18:04:20.864 INFO UploadImageMedia cmdStr data:curl -F media=@F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\3af0b7da-2f4b-4d96-a9d1-daca12b05b07.jpg "https://api.weixin.qq.com/cgi-bin/media/uploadimg?access_token=13_w0d7k7edEJExDy4WY-LKSDzpszZSCRkNOg5wF2hkQM-dn5u4xuaVh2u_6zjxyOF1pDpORnesVs5XmxZa0Mu_I1P5454fCpZ_dYWW69jo0V6ATEfS9dRV6iBhbTopHqlIk1BHHbNgmctc0zAlPPVbADAGGM"
+2018-08-30 18:06:34.054 INFO UploadImageMedia result data:
+2018-08-30 18:11:33.184 INFO Authorized? True
+2018-08-30 18:11:33.192 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 18:11:33.312 INFO Authorized? True
+2018-08-30 18:11:37.395 INFO Authorized? True
+2018-08-30 18:11:37.395 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 18:11:37.396 INFO Authorized? True
+2018-08-30 18:11:52.283 INFO UploadImageMedia mediaPath data:F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\9ca7a740-9ca2-4e9b-8614-af23498897e0.jpg
+2018-08-30 18:11:52.284 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-30 18:11:52.519 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [XSJccA09143054]"}
+2018-08-30 18:11:52.519 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-30 18:11:52.519 INFO UploadImageMedia Token data:
+2018-08-30 18:11:52.519 INFO UploadImageMedia cmdStr data:curl -F media=@F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\9ca7a740-9ca2-4e9b-8614-af23498897e0.jpg "https://api.weixin.qq.com/cgi-bin/media/uploadimg?access_token=13_w0d7k7edEJExDy4WY-LKSDzpszZSCRkNOg5wF2hkQM-dn5u4xuaVh2u_6zjxyOF1pDpORnesVs5XmxZa0Mu_I1P5454fCpZ_dYWW69jo0V6ATEfS9dRV6iBhbTopHqlIk1BHHbNgmctc0zAlPPVbADAGGM"
+2018-08-30 18:11:53.896 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-Unexpected character encountered while parsing value: M. Path '', line 0, position 0.;
+2018-08-30 18:11:53.897 ERROR Unexpected character encountered while parsing value: M. Path '', line 0, position 0.
+2018-08-30 18:12:52.942 INFO UploadImageMedia mediaPath data:F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\951a473c-72d6-40ee-8546-10c31d36f799.jpg
+2018-08-30 18:12:52.958 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-30 18:12:53.260 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [Fr6LSa09751466]"}
+2018-08-30 18:12:53.261 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-30 18:12:53.261 INFO UploadImageMedia Token data:
+2018-08-30 18:12:53.261 INFO UploadImageMedia cmdStr data:curl -F media=@F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\951a473c-72d6-40ee-8546-10c31d36f799.jpg "https://api.weixin.qq.com/cgi-bin/media/uploadimg?access_token=13_w0d7k7edEJExDy4WY-LKSDzpszZSCRkNOg5wF2hkQM-dn5u4xuaVh2u_6zjxyOF1pDpORnesVs5XmxZa0Mu_I1P5454fCpZ_dYWW69jo0V6ATEfS9dRV6iBhbTopHqlIk1BHHbNgmctc0zAlPPVbADAGGM"
+2018-08-30 18:12:54.601 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-Unexpected character encountered while parsing value: M. Path '', line 0, position 0.;
+2018-08-30 18:12:54.601 ERROR Unexpected character encountered while parsing value: M. Path '', line 0, position 0.
+2018-08-30 18:13:53.423 INFO Authorized? True
+2018-08-30 18:13:53.424 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 18:13:55.461 INFO Authorized? True
+2018-08-30 18:13:58.148 INFO Authorized? True
+2018-08-30 18:13:58.155 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-08-30 18:14:00.292 INFO Authorized? True
+2018-08-30 18:14:08.467 INFO UploadImageMedia mediaPath data:F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\3e4196d7-ac41-4867-a2c3-93727b953dc9.jpg
+2018-08-30 18:14:08.470 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-30 18:14:08.696 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [aFhRaA0050sha2]"}
+2018-08-30 18:14:08.696 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-30 18:14:08.696 INFO UploadImageMedia Token data:
+2018-08-30 18:14:08.696 INFO UploadImageMedia cmdStr data:curl -F media=@F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\3e4196d7-ac41-4867-a2c3-93727b953dc9.jpg "https://api.weixin.qq.com/cgi-bin/media/uploadimg?access_token=13_w0d7k7edEJExDy4WY-LKSDzpszZSCRkNOg5wF2hkQM-dn5u4xuaVh2u_6zjxyOF1pDpORnesVs5XmxZa0Mu_I1P5454fCpZ_dYWW69jo0V6ATEfS9dRV6iBhbTopHqlIk1BHHbNgmctc0zAlPPVbADAGGM"
+2018-08-30 18:14:10.078 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-Unexpected character encountered while parsing value: M. Path '', line 0, position 0.;
+2018-08-30 18:14:10.078 ERROR Unexpected character encountered while parsing value: M. Path '', line 0, position 0.
+2018-08-30 18:14:43.385 INFO UploadImageMedia mediaPath data:F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\1e556906-04e1-4ef7-845e-1b411240be45.jpg
+2018-08-30 18:14:43.781 INFO WebRequestGet url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx152ffb058fc702f0&secret=4dc4fb190b5be7a0b53462ac32bd07da
+2018-08-30 18:14:44.269 INFO Token :{"errcode":"40164","errmsg":"invalid ip 122.234.11.109, not in whitelist hint: [zCROvA0086sha2]"}
+2018-08-30 18:14:44.309 ERROR Get Token：值不能为 null。
+参数名: key
+2018-08-30 18:14:44.332 INFO UploadImageMedia Token data:
+2018-08-30 18:14:44.937 INFO UploadImageMedia cmdStr data:curl -F media=@F:\项目\WeiXin\WebApp.WeiXin.TJAD\data\media\image\1e556906-04e1-4ef7-845e-1b411240be45.jpg "https://api.weixin.qq.com/cgi-bin/media/uploadimg?access_token=13_w0d7k7edEJExDy4WY-LKSDzpszZSCRkNOg5wF2hkQM-dn5u4xuaVh2u_6zjxyOF1pDpORnesVs5XmxZa0Mu_I1P5454fCpZ_dYWW69jo0V6ATEfS9dRV6iBhbTopHqlIk1BHHbNgmctc0zAlPPVbADAGGM"
+2018-08-30 18:15:34.461 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-Unexpected character encountered while parsing value: M. Path '', line 0, position 0.;
+2018-08-30 18:15:34.461 ERROR Unexpected character encountered while parsing value: M. Path '', line 0, position 0.

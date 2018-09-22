@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewBag.Title = "订单信息";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Content/appjs/Product/productorder.js"></script>
+<div class="col-lg-12">
+    <div class="panel panel-default">
+        <div class="panel-body panel_body">
+            <table data-toggle="table" id="productordertable" class="table table-hover" data-page-size="10"
+                   data-query-params-type=""
+                   data-query-params=customquery
+                   data-side-pagination="server"
+                   data-url="/api/ProductOrder/QueryProductOrderByPage"
+                   data-pagination="true">
+                <thead>
+                    <tr>
+                        <th data-field="ProductName">所属产品</th>
+                        <th data-field="OrderName">订单名称</th>
+                        <th data-field="UseMonth">期限（月）</th>
+                        <th data-field="Price">价格（元）</th>
+                        <th data-field="CreationDate" data-formatter="operateDateFormatter">创建时间</th>
+                        <th data-field="CreationUserName">创建人</th>
+                        <th data-field="Remark">备注</th>
+                        <th data-field="" data-width="150" data-formatter="operateFormatter" data-events="operateEvents">操作</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+    <!-- /.panel-body -->
+</div>
+
+<div class="modal fade in" id="ProductOrderModal" tabindex="-1" role="dialog" aria-hidden="false">
+    <div class="modal-dialog">
+        <div class="modal-wrapper">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">产品信息</h4>
+                </div>
+                <form id="ProductOrdersForm" class="form-horizontal" enctype="multipart/form-data">
+                    <div class="modal-body">
+                        <input type="hidden" id="ProductOrderNo" value="0" />
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label form-label">所属产品</label>
+                            <div class="col-sm-10">
+                                <select class="form-control" id="ProductID" name="ProductID" required>
+                                    
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label form-label">订单名称</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" name="OrderName" placeholder="请输入订单名称（必填）" id="OrderName" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label form-label">期限（月）</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" number="true" placeholder="请输入使用期限（必填）" name="UseMonth" id="UseMonth" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label form-label">价格（元）</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control"  number="true"  placeholder="请输入价格（必填）" name="Price" id="Price" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label form-label">备注</label>
+                            <div class="col-sm-10">
+                                <textarea class="form-control" placeholder="请输入备注（选填）" maxlength="500" name="Remark" id="Remark"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default productOrderSave">保存</button>
+                        <button type="button" class="btn btn-white" data-dismiss="modal">关闭</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

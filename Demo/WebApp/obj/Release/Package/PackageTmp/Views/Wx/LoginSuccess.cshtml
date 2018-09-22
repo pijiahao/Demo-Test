@@ -1,0 +1,34 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>LoginSuccess</title>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+</head>
+<body>
+    <h1 style="width:100%;text-align:center;">登录成功<a href="/wx/qrcode" style="color:#808080;font-size:14px;">重新登录</a></h1>
+    <div style="margin:0px  auto;width:200px;">
+        @if (ViewBag.user != null)
+        {
+            <div><img src="@ViewBag.user.headimgurl" width="200" height="200" style="border:1px solid #ddd" /> </div>
+            <div><label>微信名：</label><label>@ViewBag.user.nickname</label> </div>
+            <div><label>省市：</label><label>@ViewBag.user.province  -  @ViewBag.user.city</label> </div>
+        }
+        else
+        {
+            <script>
+                $(function () {
+                    window.location.href = "/wx/qrcode";
+                })
+            </script>
+        }
+    </div>
+</body>
+</html>

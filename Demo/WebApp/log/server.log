@@ -1,0 +1,113 @@
+2018-09-18 16:29:03.548 INFO Authorized? True
+2018-09-18 16:29:03.555 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:29:17.197 INFO Authorized? True
+2018-09-18 16:29:17.197 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:29:59.535 INFO Authorized? True
+2018-09-18 16:29:59.535 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:31:36.742 INFO Authorized? True
+2018-09-18 16:31:36.742 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:38:21.600 INFO Authorized? True
+2018-09-18 16:38:21.609 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:38:21.649 INFO Authorized? True
+2018-09-18 16:44:56.795 INFO Authorized? True
+2018-09-18 16:44:56.802 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:44:58.520 INFO Authorized? True
+2018-09-18 16:48:40.640 INFO Authorized? True
+2018-09-18 16:48:40.640 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:48:40.643 INFO Authorized? True
+2018-09-18 16:49:09.184 INFO Authorized? True
+2018-09-18 16:49:09.184 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:49:09.187 INFO Authorized? True
+2018-09-18 16:49:14.550 INFO Authorized? True
+2018-09-18 16:49:14.550 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:49:14.553 INFO Authorized? True
+2018-09-18 16:49:37.852 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-未将对象引用设置到对象的实例。;
+2018-09-18 16:49:37.852 ERROR 未将对象引用设置到对象的实例。
+2018-09-18 16:49:46.421 INFO Authorized? True
+2018-09-18 16:49:46.421 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:49:46.423 INFO Authorized? True
+2018-09-18 16:49:47.009 INFO Authorized? True
+2018-09-18 16:49:47.009 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:49:47.011 INFO Authorized? True
+2018-09-18 16:49:47.199 INFO Authorized? True
+2018-09-18 16:49:47.199 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:49:47.201 INFO Authorized? True
+2018-09-18 16:51:47.763 INFO Authorized? True
+2018-09-18 16:51:47.763 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:51:47.766 INFO Authorized? True
+2018-09-18 16:52:11.211 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-未将对象引用设置到对象的实例。;
+2018-09-18 16:52:11.211 ERROR 未将对象引用设置到对象的实例。
+2018-09-18 16:52:57.934 INFO Authorized? True
+2018-09-18 16:52:57.934 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:52:57.976 INFO Authorized? True
+2018-09-18 16:53:21.587 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-未将对象引用设置到对象的实例。;
+2018-09-18 16:53:21.587 ERROR 未将对象引用设置到对象的实例。
+2018-09-18 16:54:03.229 INFO Authorized? True
+2018-09-18 16:54:03.236 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:54:04.858 INFO Authorized? True
+2018-09-18 16:54:10.223 ERROR Error occurred in WebApi.Controller-SystemUser;ExceptionMessage-更新条目时出错。有关详细信息，请参阅内部异常。;
+2018-09-18 16:54:10.224 ERROR INSERT 语句与 FOREIGN KEY 约束"FK_SystemLog_SystemUser"冲突。该冲突发生于数据库"DemoDB"，表"dbo.SystemUser", column 'ID'。
+语句已终止。
+2018-09-18 16:54:34.739 INFO Authorized? True
+2018-09-18 16:54:34.739 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:54:34.785 INFO Authorized? True
+2018-09-18 16:57:18.323 INFO Authorized? True
+2018-09-18 16:57:18.331 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:57:19.990 INFO Authorized? True
+2018-09-18 16:57:29.078 INFO Authorized? True
+2018-09-18 16:57:29.078 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:57:29.084 INFO Authorized? True
+2018-09-18 16:57:34.259 INFO Authorized? True
+2018-09-18 16:57:34.259 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:57:34.263 INFO Authorized? True
+2018-09-18 16:58:11.751 INFO Authorized? True
+2018-09-18 16:58:11.751 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:58:11.756 INFO Authorized? True
+2018-09-18 16:59:04.878 INFO Authorized? True
+2018-09-18 16:59:04.878 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:59:04.880 INFO Authorized? True
+2018-09-18 16:59:11.373 INFO Authorized? True
+2018-09-18 16:59:11.373 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:59:11.376 INFO Authorized? True
+2018-09-18 16:59:33.560 INFO Authorized? True
+2018-09-18 16:59:33.560 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:59:33.564 INFO Authorized? True
+2018-09-18 16:59:44.425 INFO Authorized? True
+2018-09-18 16:59:44.425 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:59:44.428 INFO Authorized? True
+2018-09-18 16:59:48.630 INFO Authorized? True
+2018-09-18 16:59:48.630 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:59:48.636 INFO Authorized? True
+2018-09-18 16:59:57.764 INFO Authorized? True
+2018-09-18 16:59:57.764 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 16:59:57.766 INFO Authorized? True
+2018-09-18 17:00:04.553 INFO Authorized? True
+2018-09-18 17:00:04.553 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 17:00:04.554 INFO Authorized? True
+2018-09-18 17:00:05.314 INFO Authorized? True
+2018-09-18 17:00:05.314 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 17:00:05.318 INFO Authorized? True
+2018-09-18 17:00:05.923 INFO Authorized? True
+2018-09-18 17:00:05.923 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 17:00:05.926 INFO Authorized? True
+2018-09-18 17:00:06.496 INFO Authorized? True
+2018-09-18 17:00:06.496 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 17:00:06.499 INFO Authorized? True
+2018-09-18 17:00:08.143 INFO Authorized? True
+2018-09-18 17:00:08.143 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 17:00:08.147 INFO Authorized? True
+2018-09-18 17:00:08.953 INFO Authorized? True
+2018-09-18 17:00:08.953 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 17:00:08.956 INFO Authorized? True
+2018-09-18 17:00:10.191 INFO Authorized? True
+2018-09-18 17:00:10.191 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 17:00:10.195 INFO Authorized? True
+2018-09-18 17:00:12.517 INFO Authorized? True
+2018-09-18 17:00:12.517 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 17:00:12.522 INFO Authorized? True
+2018-09-18 17:00:13.100 INFO Authorized? True
+2018-09-18 17:00:13.100 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 17:00:13.104 INFO Authorized? True
+2018-09-18 17:00:20.149 INFO Authorized? True
+2018-09-18 17:00:20.149 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-18 17:00:20.153 INFO Authorized? True

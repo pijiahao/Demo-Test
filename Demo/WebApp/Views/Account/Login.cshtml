@@ -1,0 +1,75 @@
+﻿@using WebApp.Models
+@model LoginViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>登录</title>
+
+    <link href="~/Content/Login/css/style.css" rel="stylesheet" />
+    <script src="~/Content/common/jQuery/jQuery-v2.1.0.js"></script>
+    <script src="~/Content/Login/js/verificationNumbers.js"></script>
+    <script src="~/Content/Login/js/Particleground.js"></script>
+    <style>
+        body {
+            height: 100%;
+            background: #2A3F54;
+            overflow: hidden;
+        }
+
+        canvas {
+            z-index: -1;
+            position: absolute;
+        }
+        .text-danger{
+            color:red;
+        }
+    </style>
+    <script>
+        $(document).ready(function () {
+            //粒子背景特效
+            $('body').particleground({
+                dotColor: '#5cbdaa',
+                lineColor: '#5cbdaa'
+            });
+            //验证码
+            createCode();
+            //测试提交，对接程序删除即可
+            $(".submit_btn").click(function () {
+                location.href = "javascrpt:;"/*tpa=http://***index.html*/;
+            });
+        });
+    </script>
+</head>
+<body>
+    @using (Html.BeginForm("Login", "Account", FormMethod.Post, new { role = "form" }))
+    {
+        <dl class="admin_login">
+
+            <dt>
+                @*<strong>TJAD授权管理系统</strong>*@
+                <em>Management System</em>
+            </dt>
+            <dd class="user_icon">
+                @Html.TextBoxFor(m => m.UserName, new { @class = "login_txtbx", placeholder = "账号" })
+            </dd>
+            <dd class="pwd_icon">
+                @Html.PasswordFor(m => m.Password, new { @class = "login_txtbx", placeholder = "密码" })
+            </dd>
+            <dd>
+                <input type="submit" value="立即登陆" class="submit_btn" />
+            </dd>
+            <dd>
+                <p>@Html.ValidationSummary(true, "", new { @class = "text-danger" })</p>
+                @*<p>©同济大学建筑设计研究院（集团）有限公司 版权所有</p>
+                <p>沪ICP备05017471号</p>*@
+            </dd>
+        </dl>
+    }
+</body>
+</html>

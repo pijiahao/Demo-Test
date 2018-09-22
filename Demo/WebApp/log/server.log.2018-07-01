@@ -1,0 +1,44 @@
+2018-07-01 16:43:16.708 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 16:47:42.365 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 16:48:12.549 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 16:48:31.890 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 16:48:39.156 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 16:48:39.159 ERROR 该字符串未被识别为有效的 DateTime。有一个未知单词(从索引 0 处开始)。
+2018-07-01 16:58:14.266 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 16:58:14.369 INFO Authorized? False
+2018-07-01 17:00:15.401 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:00:15.515 INFO Authorized? False
+2018-07-01 17:01:42.362 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:01:42.515 INFO Authorized? False
+2018-07-01 17:03:49.315 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:03:51.692 INFO Authorized? False
+2018-07-01 17:07:22.296 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:07:24.792 INFO Authorized? False
+2018-07-01 17:10:28.318 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:10:28.351 INFO Authorized? False
+2018-07-01 17:12:16.812 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:12:19.027 INFO Authorized? False
+2018-07-01 17:12:19.059 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:12:19.083 INFO Authorized? True
+2018-07-01 17:12:31.061 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:12:31.062 INFO Authorized? True
+2018-07-01 17:12:46.886 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:12:46.887 INFO Authorized? True
+2018-07-01 17:12:48.857 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:12:48.859 INFO Authorized? True
+2018-07-01 17:12:50.377 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:12:50.378 INFO Authorized? True
+2018-07-01 17:12:51.159 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:12:51.161 INFO Authorized? True
+2018-07-01 17:12:51.662 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:12:51.663 INFO Authorized? True
+2018-07-01 17:12:52.313 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:12:52.313 INFO Authorized? True
+2018-07-01 17:12:53.321 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:12:53.322 INFO Authorized? True
+2018-07-01 17:12:53.906 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:12:53.908 INFO Authorized? True
+2018-07-01 17:12:54.830 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:12:54.830 INFO Authorized? True
+2018-07-01 17:12:55.610 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-07-01 17:12:55.611 INFO Authorized? True

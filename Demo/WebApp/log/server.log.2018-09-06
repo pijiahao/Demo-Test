@@ -1,0 +1,104 @@
+2018-09-06 13:08:03.681 INFO Authorized? True
+2018-09-06 13:08:03.691 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-09-06 13:08:03.820 INFO Authorized? True
+2018-09-06 13:08:09.717 INFO Authorized? True
+2018-09-06 13:08:09.717 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-09-06 13:08:09.745 INFO Authorized? True
+2018-09-06 13:08:37.281 INFO Authorized? True
+2018-09-06 13:08:37.281 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-09-06 13:08:37.311 INFO Authorized? True
+2018-09-06 13:09:18.494 INFO Authorized? True
+2018-09-06 13:09:18.502 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-09-06 13:10:07.649 INFO Authorized? True
+2018-09-06 13:10:07.656 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-09-06 13:10:09.502 INFO Authorized? True
+2018-09-06 13:10:16.570 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-无法将类型为“System.String”的对象强制转换为类型“WebApp.WeiXin.TJAD.DataContracts.ProductServiceLifeDataInfo”。;
+2018-09-06 13:10:16.570 ERROR 无法将类型为“System.String”的对象强制转换为类型“WebApp.WeiXin.TJAD.DataContracts.ProductServiceLifeDataInfo”。
+2018-09-06 13:13:19.221 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-无法将类型为“System.String”的对象强制转换为类型“WebApp.WeiXin.TJAD.DataContracts.ProductServiceLifeDataInfo”。;
+2018-09-06 13:13:19.221 ERROR 无法将类型为“System.String”的对象强制转换为类型“WebApp.WeiXin.TJAD.DataContracts.ProductServiceLifeDataInfo”。
+2018-09-06 14:07:59.802 INFO SessionID data:cb96ade ,session data
+2018-09-06 14:09:41.845 INFO Authorized? True
+2018-09-06 14:09:41.852 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-09-06 14:09:44.142 INFO Authorized? True
+2018-09-06 14:09:50.555 INFO SessionID data:cb96ade ,session data
+2018-09-06 14:11:26.889 INFO Authorized? True
+2018-09-06 14:11:26.896 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-09-06 14:11:28.875 INFO Authorized? True
+2018-09-06 14:11:37.030 INFO SessionID data:cb96ade ,session data
+2018-09-06 14:12:04.981 INFO SessionID data:test ,session data
+2018-09-06 14:13:07.753 INFO Authorized? True
+2018-09-06 14:13:07.766 INFO Authorize controller WebApp.WeiXin.TJAD.Controllers.HomeController
+2018-09-06 14:13:10.970 INFO Authorized? True
+2018-09-06 14:13:22.796 INFO SessionID data:test ,session data01109dc5-7e2a-4eed-9457-a1e25f5c5e6f
+2018-09-06 14:13:33.844 INFO Session data:"01109dc5-7e2a-4eed-9457-a1e25f5c5e6f"
+2018-09-06 14:13:45.538 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-Input string '01109dc5-7e2a-4eed-9457-a1e25f5c5e6f' is not a valid number. Path '', line 1, position 36.;
+2018-09-06 14:13:45.538 ERROR 字符串的末尾有其他无法分析的字符。
+2018-09-06 14:13:52.871 INFO SessionID data:cb96ade ,session data51102a43-1867-43ed-87da-c82813d90051
+2018-09-06 14:14:35.893 INFO Session data:"51102a43-1867-43ed-87da-c82813d90051"
+2018-09-06 14:14:38.177 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-Input string '51102a43-1867-43ed-87da-c82813d90051' is not a valid number. Path '', line 1, position 36.;
+2018-09-06 14:14:38.177 ERROR Input string '51102a43-1867-43ed-87da-c82813d90051' is not a valid number. Path '', line 1, position 36.
+2018-09-06 14:15:37.582 INFO SessionID data:cb96ade ,session data5b637631-f45c-4705-9af5-fdc85f696a2f
+2018-09-06 14:15:37.653 INFO Session data:"5b637631-f45c-4705-9af5-fdc85f696a2f"
+2018-09-06 14:15:42.406 ERROR Error occurred in WebApi.Controller-WeiXin;ExceptionMessage-Input string '5b637631-f45c-4705-9af5-fdc85f696a2f' is not a valid number. Path '', line 1, position 36.;
+2018-09-06 14:15:42.406 ERROR Input string '5b637631-f45c-4705-9af5-fdc85f696a2f' is not a valid number. Path '', line 1, position 36.
+2018-09-06 14:33:11.336 INFO sessionID：cb96ade productServiceLifeDataInfo data:{"ID":1,"ProductId":3,"UseStratDate":"2018-09-05T14:29:36.47","UseEndDate":"2018-11-05T14:29:36.47","UseMonth":null,"IsPermanent":false,"UserId":1,"ProductName":"产品1","UserDataInfo":{"ID":1,"UserName":null,"DisplayName":"后知后觉","Password":null,"Country":"中国","Province":"湖北","City":"黄石","Sex":"男","OpenID":"odGXHwbqC28ibtCUUMfCsgCVpWSY","UserFace":"http://thirdwx.qlogo.cn/mmopen/O4Hn8cUib8y9hdicsbpXmyNFMPBz2JSkrK7hso1oOQjXX3pqkPrEsJlH7kgPVoxCys61fHCrQusHlYfXRib3TEyyuNHZWBwZ4vd/132","CreationDateTime":"2018-08-28T17:47:58.39","AttentionDateTime":"2018-08-28T17:47:58.39","CancelAttentionDateTime":"0001-01-01T00:00:00","CanAttention":true,"Remark":"","SourceProductID":3,"Email":null,"Phone":null,"IsUse":true,"ProductName":"产品1"}}
+2018-09-06 14:33:21.601 INFO SessionID data:cb96ade
+2018-09-06 14:33:25.737 INFO Session data:"{\"ID\":1,\"ProductId\":3,\"UseStratDate\":\"2018-09-05T14:29:36.47\",\"UseEndDate\":\"2018-11-05T14:29:36.47\",\"UseMonth\":null,\"IsPermanent\":false,\"UserId\":1,\"ProductName\":\"产品1\",\"UserDataInfo\":{\"ID\":1,\"UserName\":null,\"DisplayName\":\"后知后觉\",\"Password\":null,\"Country\":\"中国\",\"Province\":\"湖北\",\"City\":\"黄石\",\"Sex\":\"男\",\"OpenID\":\"odGXHwbqC28ibtCUUMfCsgCVpWSY\",\"UserFace\":\"http://thirdwx.qlogo.cn/mmopen/O4Hn8cUib8y9hdicsbpXmyNFMPBz2JSkrK7hso1oOQjXX3pqkPrEsJlH7kgPVoxCys61fHCrQusHlYfXRib3TEyyuNHZWBwZ4vd/132\",\"CreationDateTime\":\"2018-08-28T17:47:58.39\",\"AttentionDateTime\":\"2018-08-28T17:47:58.39\",\"CancelAttentionDateTime\":\"0001-01-01T00:00:00\",\"CanAttention\":true,\"Remark\":\"\",\"SourceProductID\":3,\"Email\":null,\"Phone\":null,\"IsUse\":true,\"ProductName\":\"产品1\"}}"
+2018-09-06 14:35:50.495 INFO sessionID：cb96ade productServiceLifeDataInfo data:{"ID":1,"ProductId":3,"UseStratDate":"2018-09-05T14:29:36.47","UseEndDate":"2018-11-05T14:29:36.47","UseMonth":null,"IsPermanent":false,"UserId":1,"ProductName":"产品1","UserDataInfo":{"ID":1,"UserName":null,"DisplayName":"后知后觉","Password":null,"Country":"中国","Province":"湖北","City":"黄石","Sex":"男","OpenID":"odGXHwbqC28ibtCUUMfCsgCVpWSY","UserFace":"http://thirdwx.qlogo.cn/mmopen/O4Hn8cUib8y9hdicsbpXmyNFMPBz2JSkrK7hso1oOQjXX3pqkPrEsJlH7kgPVoxCys61fHCrQusHlYfXRib3TEyyuNHZWBwZ4vd/132","CreationDateTime":"2018-08-28T17:47:58.39","AttentionDateTime":"2018-08-28T17:47:58.39","CancelAttentionDateTime":"0001-01-01T00:00:00","CanAttention":true,"Remark":"","SourceProductID":3,"Email":null,"Phone":null,"IsUse":true,"ProductName":"产品1"}}
+2018-09-06 14:36:51.828 INFO SessionID data:6590ab
+2018-09-06 14:36:55.439 INFO SessionID data:6590ab
+2018-09-06 14:36:57.491 INFO SessionID data:6590ab
+2018-09-06 14:36:59.587 INFO SessionID data:6590ab
+2018-09-06 14:37:00.763 INFO SessionID data:6590ab
+2018-09-06 14:37:01.763 INFO SessionID data:6590ab
+2018-09-06 14:37:35.477 INFO sessionID：cb96ade productServiceLifeDataInfo data:{"ID":1,"ProductId":3,"UseStratDate":"2018-09-05T14:29:36.47","UseEndDate":"2018-11-05T14:29:36.47","UseMonth":null,"IsPermanent":false,"UserId":1,"ProductName":"产品1","UserDataInfo":{"ID":1,"UserName":null,"DisplayName":"后知后觉","Password":null,"Country":"中国","Province":"湖北","City":"黄石","Sex":"男","OpenID":"odGXHwbqC28ibtCUUMfCsgCVpWSY","UserFace":"http://thirdwx.qlogo.cn/mmopen/O4Hn8cUib8y9hdicsbpXmyNFMPBz2JSkrK7hso1oOQjXX3pqkPrEsJlH7kgPVoxCys61fHCrQusHlYfXRib3TEyyuNHZWBwZ4vd/132","CreationDateTime":"2018-08-28T17:47:58.39","AttentionDateTime":"2018-08-28T17:47:58.39","CancelAttentionDateTime":"0001-01-01T00:00:00","CanAttention":true,"Remark":"","SourceProductID":3,"Email":null,"Phone":null,"IsUse":true,"ProductName":"产品1"}}
+2018-09-06 14:37:44.004 INFO SessionID data:26063e
+2018-09-06 14:38:09.435 INFO SessionID data:4221016
+2018-09-06 14:45:04.000 INFO sessionID：cb96ade productServiceLifeDataInfo data:{"ID":1,"ProductId":3,"UseStratDate":"2018-09-05T14:29:36.47","UseEndDate":"2018-11-05T14:29:36.47","UseMonth":null,"IsPermanent":false,"UserId":1,"ProductName":"产品1","UserDataInfo":{"ID":1,"UserName":null,"DisplayName":"后知后觉","Password":null,"Country":"中国","Province":"湖北","City":"黄石","Sex":"男","OpenID":"odGXHwbqC28ibtCUUMfCsgCVpWSY","UserFace":"http://thirdwx.qlogo.cn/mmopen/O4Hn8cUib8y9hdicsbpXmyNFMPBz2JSkrK7hso1oOQjXX3pqkPrEsJlH7kgPVoxCys61fHCrQusHlYfXRib3TEyyuNHZWBwZ4vd/132","CreationDateTime":"2018-08-28T17:47:58.39","AttentionDateTime":"2018-08-28T17:47:58.39","CancelAttentionDateTime":"0001-01-01T00:00:00","CanAttention":true,"Remark":"","SourceProductID":3,"Email":null,"Phone":null,"IsUse":true,"ProductName":"产品1"}}
+2018-09-06 14:45:11.768 INFO Application data:b289
+2018-09-06 14:46:24.391 INFO sessionID：cb96ade productServiceLifeDataInfo data:{"ID":1,"ProductId":3,"UseStratDate":"2018-09-05T14:29:36.47","UseEndDate":"2018-11-05T14:29:36.47","UseMonth":null,"IsPermanent":false,"UserId":1,"ProductName":"产品1","UserDataInfo":{"ID":1,"UserName":null,"DisplayName":"后知后觉","Password":null,"Country":"中国","Province":"湖北","City":"黄石","Sex":"男","OpenID":"odGXHwbqC28ibtCUUMfCsgCVpWSY","UserFace":"http://thirdwx.qlogo.cn/mmopen/O4Hn8cUib8y9hdicsbpXmyNFMPBz2JSkrK7hso1oOQjXX3pqkPrEsJlH7kgPVoxCys61fHCrQusHlYfXRib3TEyyuNHZWBwZ4vd/132","CreationDateTime":"2018-08-28T17:47:58.39","AttentionDateTime":"2018-08-28T17:47:58.39","CancelAttentionDateTime":"0001-01-01T00:00:00","CanAttention":true,"Remark":"","SourceProductID":3,"Email":null,"Phone":null,"IsUse":true,"ProductName":"产品1"}}
+2018-09-06 14:46:27.476 INFO Application data:cb96ade
+2018-09-06 14:46:33.482 INFO Application data:"{\"ID\":1,\"ProductId\":3,\"UseStratDate\":\"2018-09-05T14:29:36.47\",\"UseEndDate\":\"2018-11-05T14:29:36.47\",\"UseMonth\":null,\"IsPermanent\":false,\"UserId\":1,\"ProductName\":\"产品1\",\"UserDataInfo\":{\"ID\":1,\"UserName\":null,\"DisplayName\":\"后知后觉\",\"Password\":null,\"Country\":\"中国\",\"Province\":\"湖北\",\"City\":\"黄石\",\"Sex\":\"男\",\"OpenID\":\"odGXHwbqC28ibtCUUMfCsgCVpWSY\",\"UserFace\":\"http://thirdwx.qlogo.cn/mmopen/O4Hn8cUib8y9hdicsbpXmyNFMPBz2JSkrK7hso1oOQjXX3pqkPrEsJlH7kgPVoxCys61fHCrQusHlYfXRib3TEyyuNHZWBwZ4vd/132\",\"CreationDateTime\":\"2018-08-28T17:47:58.39\",\"AttentionDateTime\":\"2018-08-28T17:47:58.39\",\"CancelAttentionDateTime\":\"0001-01-01T00:00:00\",\"CanAttention\":true,\"Remark\":\"\",\"SourceProductID\":3,\"Email\":null,\"Phone\":null,\"IsUse\":true,\"ProductName\":\"产品1\"}}"
+2018-09-06 14:47:30.683 INFO sessionID：cb96ade productServiceLifeDataInfo data:{"ID":1,"ProductId":3,"UseStratDate":"2018-09-05T14:29:36.47","UseEndDate":"2018-11-05T14:29:36.47","UseMonth":null,"IsPermanent":false,"UserId":1,"ProductName":"产品1","UserDataInfo":{"ID":1,"UserName":null,"DisplayName":"后知后觉","Password":null,"Country":"中国","Province":"湖北","City":"黄石","Sex":"男","OpenID":"odGXHwbqC28ibtCUUMfCsgCVpWSY","UserFace":"http://thirdwx.qlogo.cn/mmopen/O4Hn8cUib8y9hdicsbpXmyNFMPBz2JSkrK7hso1oOQjXX3pqkPrEsJlH7kgPVoxCys61fHCrQusHlYfXRib3TEyyuNHZWBwZ4vd/132","CreationDateTime":"2018-08-28T17:47:58.39","AttentionDateTime":"2018-08-28T17:47:58.39","CancelAttentionDateTime":"0001-01-01T00:00:00","CanAttention":true,"Remark":"","SourceProductID":3,"Email":null,"Phone":null,"IsUse":true,"ProductName":"产品1"}}
+2018-09-06 14:47:36.019 INFO SessionID data:cb96ade
+2018-09-06 14:47:51.104 INFO SessionID data:cb96ade
+2018-09-06 14:53:13.868 INFO ApplicationID data:f03b3c5
+2018-09-06 14:53:31.297 INFO ApplicationID data:f03b3c5
+2018-09-06 14:54:01.058 INFO ApplicationID data:f03b3c5
+2018-09-06 16:25:17.813 INFO Authorized? False
+2018-09-06 16:25:17.823 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-06 16:25:19.941 INFO Authorized? False
+2018-09-06 16:26:33.701 INFO Authorized? False
+2018-09-06 16:26:33.708 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-06 16:26:35.468 INFO Authorized? False
+2018-09-06 16:27:42.763 INFO Authorized? False
+2018-09-06 16:27:42.775 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-06 16:27:46.279 INFO Authorized? False
+2018-09-06 16:28:32.361 INFO Authorized? False
+2018-09-06 16:28:32.371 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-06 16:28:35.374 INFO Authorized? False
+2018-09-06 16:30:10.776 INFO Authorized? False
+2018-09-06 16:30:10.777 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-06 16:30:10.808 INFO Authorized? False
+2018-09-06 16:32:27.681 INFO Authorized? False
+2018-09-06 16:32:27.681 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-06 16:32:35.934 INFO Authorized? False
+2018-09-06 16:32:35.934 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-06 16:32:38.502 INFO Authorized? False
+2018-09-06 16:33:07.985 INFO Authorized? False
+2018-09-06 16:33:07.985 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-06 16:58:52.637 INFO Authorized? True
+2018-09-06 16:58:52.646 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-06 16:58:54.880 INFO Authorized? True
+2018-09-06 16:59:54.132 INFO Authorized? True
+2018-09-06 16:59:54.139 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-06 16:59:55.899 INFO Authorized? True
+2018-09-06 17:00:46.254 INFO Authorized? True
+2018-09-06 17:00:46.261 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-06 17:00:46.337 INFO Authorized? True
+2018-09-06 17:51:59.242 INFO Authorized? True
+2018-09-06 17:51:59.249 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-06 17:51:59.563 INFO Authorized? True
+2018-09-06 18:04:10.479 INFO Authorized? True
+2018-09-06 18:04:10.479 INFO Authorize controller WebApp.Controllers.AdminController
+2018-09-06 18:04:10.650 INFO Authorized? True
